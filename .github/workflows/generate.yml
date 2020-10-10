@@ -21,11 +21,11 @@ jobs:
       - name: Generate JSON
         run: |
           python generate.py "${{ secrets.GITHUB_TOKEN }}" > modules.json
-          git add modules.json
           
       - name: Commit Changes
         run: |
           git config --global user.email "mmar-json@users.noreply.github.com"
           git config --global user.name "mmar-json"
-          git commit -sm "Update modules.json"
-          git push
+          git add modules.json
+          git commit -sm "Update modules.json" || true
+          git push || true
