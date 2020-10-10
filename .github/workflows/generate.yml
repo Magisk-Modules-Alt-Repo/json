@@ -20,7 +20,7 @@ jobs:
       
       - name: Generate JSON
         run: |
-          python generate.py "${{ secrets.GITHUB_TOKEN }}" > modules.json
+          python generate.py > modules.json
           git add modules.json
           
       - name: Commit Changes
