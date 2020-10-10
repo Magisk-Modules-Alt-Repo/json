@@ -1,5 +1,7 @@
 name: Generate JSON
-on: workflow_dispatch
+on:
+  schedule:
+    - cron: '0 * * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
