@@ -1,3 +1,4 @@
+import sys
 import json
 from github import Github
 
@@ -13,7 +14,7 @@ meta = {
 }
 
 # Initialize the GitHub objects
-g = Github()
+g = Github(sys.argv[1])
 user = g.get_user(REPO_NAME)
 repos = g.get_repos()
 
