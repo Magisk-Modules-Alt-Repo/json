@@ -26,6 +26,7 @@ meta["last_update"] = int(user.updated_at.timestamp() * 1000)
 for repo in repos:
     # It is possible that module.prop does not exist (meta repo)
     try:
+        print(repo.full_name)
         # Parse module.prop into a python object
         moduleprop_raw = urllib.request.urlopen(f"https://raw.githubusercontent.com/{repo.full_name}/master/module.prop").read().decode("UTF-8")
         moduleprop = {}
