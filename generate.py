@@ -1,6 +1,5 @@
 import sys
 import json
-import urllib.request
 from github import Github
 
 # Configuration
@@ -28,7 +27,7 @@ for repo in repos:
     try:
         print(repo.full_name)
         # Parse module.prop into a python object
-        moduleprop_raw = urllib.request.urlopen(f"https://raw.githubusercontent.com/{repo.full_name}/master/module.prop").read().decode("UTF-8")
+        moduleprop_raw = repo.get_contents("module.prop").decoded_content.decode("UTF-8")
         moduleprop = {}
         for line in moduleprop_raw.splitlines():
             lhs, rhs = line.split("=")
