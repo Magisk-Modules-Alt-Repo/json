@@ -25,7 +25,6 @@ meta["last_update"] = int(user.updated_at.timestamp() * 1000)
 for repo in repos:
     # It is possible that module.prop does not exist (meta repo)
     try:
-        print(repo.full_name)
         # Parse module.prop into a python object
         moduleprop_raw = repo.get_contents("module.prop").decoded_content.decode("UTF-8")
         moduleprop = {}
