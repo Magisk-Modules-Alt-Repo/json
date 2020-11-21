@@ -1,1 +1,139 @@
-{"name": "Magisk Modules Alt Repo", "last_update": 1598596016000, "modules": [{"id": "backup", "last_update": 1600710742000, "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/backup/master/module.prop", "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/backup/archive/master.zip", "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/backup/master/README.md"}, {"id": "Better-MIUI-Icons", "last_update": 1605371686000, "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons/master/module.prop", "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons/archive/master.zip", "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons/master/README.md"}, {"id": "charch", "last_update": 1603491615000, "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch/master/module.prop", "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/charch/archive/master.zip", "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch/master/README.md"}, {"id": "charch_openrc", "last_update": 1603491612000, "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_openrc/master/module.prop", "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/charch_openrc/archive/master.zip", "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_openrc/master/README.md"}, {"id": "charch_sshd", "last_update": 1603491618000, "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_sshd/master/module.prop", "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/charch_sshd/archive/master.zip", "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_sshd/master/README.md"}, {"id": "cmdpatch", "last_update": 1605361727000, "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/cmdpatch/master/module.prop", "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/cmdpatch/archive/master.zip", "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/cmdpatch/master/README.md"}, {"id": "FOSSAPPS", "last_update": 1605410595000, "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FOSSAPPS/master/module.prop", "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/FOSSAPPS/archive/master.zip", "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FOSSAPPS/master/README.md"}, {"id": "Google-Sans", "last_update": 1598229384000, "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans/master/module.prop", "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans/archive/master.zip", "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans/master/README.md"}, {"id": "Google-Sans-Plus", "last_update": 1603701166000, "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus/master/module.prop", "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus/archive/master.zip", "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus/master/README.md"}, {"id": "KTKSR", "last_update": 1605396977000, "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/King-Tweaks/master/module.prop", "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/King-Tweaks/archive/master.zip", "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/King-Tweaks/master/README.md"}, {"id": "ktweak", "last_update": 1605539829000, "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ktweak/master/module.prop", "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ktweak/archive/master.zip", "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ktweak/master/README.md"}, {"id": "MacRandomizationEnabler", "last_update": 1600286382000, "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/master/module.prop", "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/archive/master.zip", "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/master/README.md"}, {"id": "magisk-captive-control", "last_update": 1604596430000, "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/master/module.prop", "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/archive/master.zip", "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/master/README.md"}, {"id": "magisk-drm-disabler", "last_update": 1604872842000, "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler/master/module.prop", "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler/archive/master.zip", "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler/master/README.md"}, {"id": "saturation", "last_update": 1603491622000, "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/saturation/master/module.prop", "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/saturation/archive/master.zip", "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/saturation/master/README.md"}, {"id": "vintf-bypass", "last_update": 1598025278000, "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/vintf-bypass/master/module.prop", "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass/archive/master.zip", "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/vintf-bypass/master/README.md"}, {"id": "ZeroAudioDelay", "last_update": 1605652263000, "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ZeroAudioDelay/master/module.prop", "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ZeroAudioDelay/archive/master.zip", "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ZeroAudioDelay/master/README.md"}, {"id": "ZeroDelayTouch", "last_update": 1605652223000, "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ZeroDelayTouch/master/module.prop", "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ZeroDelayTouch/archive/master.zip", "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ZeroDelayTouch/master/README.md"}, {"id": "ZeroLAG", "last_update": 1605840032000, "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ZeroLAG/master/module.prop", "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ZeroLAG/archive/master.zip", "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ZeroLAG/master/README.md"}]}
+{
+    "last_update": 1598596016000,
+    "modules": [
+        {
+            "id": "backup",
+            "last_update": 1600710742000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/backup/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/backup/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/backup/archive/master.zip"
+        },
+        {
+            "id": "Better-MIUI-Icons",
+            "last_update": 1605371686000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons/archive/master.zip"
+        },
+        {
+            "id": "charch",
+            "last_update": 1603491615000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/charch/archive/master.zip"
+        },
+        {
+            "id": "charch_openrc",
+            "last_update": 1603491612000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_openrc/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_openrc/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/charch_openrc/archive/master.zip"
+        },
+        {
+            "id": "charch_sshd",
+            "last_update": 1603491618000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_sshd/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_sshd/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/charch_sshd/archive/master.zip"
+        },
+        {
+            "id": "cmdpatch",
+            "last_update": 1605361727000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/cmdpatch/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/cmdpatch/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/cmdpatch/archive/master.zip"
+        },
+        {
+            "id": "FOSSAPPS",
+            "last_update": 1605410595000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FOSSAPPS/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FOSSAPPS/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/FOSSAPPS/archive/master.zip"
+        },
+        {
+            "id": "Google-Sans",
+            "last_update": 1598229384000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans/archive/master.zip"
+        },
+        {
+            "id": "Google-Sans-Plus",
+            "last_update": 1603701166000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus/archive/master.zip"
+        },
+        {
+            "id": "KTKSR",
+            "last_update": 1605396977000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/King-Tweaks/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/King-Tweaks/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/King-Tweaks/archive/master.zip"
+        },
+        {
+            "id": "ktweak",
+            "last_update": 1605539829000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ktweak/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ktweak/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ktweak/archive/master.zip"
+        },
+        {
+            "id": "MacRandomizationEnabler",
+            "last_update": 1600286382000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/archive/master.zip"
+        },
+        {
+            "id": "magisk-captive-control",
+            "last_update": 1604596430000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/archive/master.zip"
+        },
+        {
+            "id": "magisk-drm-disabler",
+            "last_update": 1604872842000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler/archive/master.zip"
+        },
+        {
+            "id": "saturation",
+            "last_update": 1603491622000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/saturation/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/saturation/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/saturation/archive/master.zip"
+        },
+        {
+            "id": "vintf-bypass",
+            "last_update": 1598025278000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/vintf-bypass/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/vintf-bypass/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass/archive/master.zip"
+        },
+        {
+            "id": "ZeroAudioDelay",
+            "last_update": 1605652263000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ZeroAudioDelay/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ZeroAudioDelay/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ZeroAudioDelay/archive/master.zip"
+        },
+        {
+            "id": "ZeroDelayTouch",
+            "last_update": 1605652223000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ZeroDelayTouch/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ZeroDelayTouch/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ZeroDelayTouch/archive/master.zip"
+        },
+        {
+            "id": "ZeroLAG",
+            "last_update": 1605840032000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ZeroLAG/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ZeroLAG/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ZeroLAG/archive/master.zip"
+        }
+    ],
+    "name": "Magisk Modules Alt Repo"
+}
