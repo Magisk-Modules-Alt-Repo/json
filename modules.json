@@ -72,13 +72,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/King-Tweaks/archive/master.zip"
         },
         {
-            "id": "ktweak",
-            "last_update": 1605539829000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ktweak/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ktweak/master/module.prop",
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ktweak/archive/master.zip"
-        },
-        {
             "id": "MacRandomizationEnabler",
             "last_update": 1600286382000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/master/README.md",
