@@ -3,7 +3,7 @@
     "modules": [
         {
             "id": "backup",
-            "last_update": 1600710742000,
+            "last_update": 1606378819000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/backup/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/backup/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/backup/archive/master.zip"
