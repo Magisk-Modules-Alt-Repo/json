@@ -29,6 +29,8 @@ for repo in repos:
         moduleprop_raw = repo.get_contents("module.prop").decoded_content.decode("UTF-8")
         moduleprop = {}
         for line in moduleprop_raw.splitlines():
+            if "=" not in line:
+                continue
             lhs, rhs = line.split("=")
             moduleprop[lhs] = rhs
         
