@@ -1,5 +1,6 @@
 name: Generate JSON
 on:
+  workflow_dispatch:
   schedule:
     - cron: '0 * * * *'
 jobs:
@@ -20,6 +21,7 @@ jobs:
       
       - name: Generate JSON
         run: |
+          export GIT_TOKEN="${{ secrets.AUTH_KEY }}"
           python generate.py "${{ secrets.GITHUB_TOKEN }}" > modules.json
           
       - name: Commit Changes
