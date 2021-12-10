@@ -32,7 +32,7 @@ for repo in repos:
         for line in moduleprop_raw.splitlines():
             if "=" not in line:
                 continue
-            lhs, rhs = line.split("=")
+            lhs, rhs = line.split("=", 1)
             moduleprop[lhs] = rhs
         
         # Create meta module information
