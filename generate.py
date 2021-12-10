@@ -1,5 +1,6 @@
 import sys
 import json
+import os
 from github import Github
 
 # Configuration
@@ -14,7 +15,7 @@ meta = {
 }
 
 # Initialize the GitHub objects
-g = Github(sys.argv[1])
+g = Github(os.environ['GIT_TOKEN'])
 user = g.get_user(REPO_NAME)
 repos = user.get_repos()
 
