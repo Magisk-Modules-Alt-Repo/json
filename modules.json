@@ -2,6 +2,13 @@
     "last_update": 1598596016000,
     "modules": [
         {
+            "id": "AFWallAntiLeak",
+            "last_update": 1640440397000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/archive/master.zip"
+        },
+        {
             "id": "backup",
             "last_update": 1639682990000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/backup/master/README.md",
