@@ -1,5 +1,6 @@
 name: Generate JSON
 on:
+  push:
   workflow_dispatch:
   schedule:
     - cron: '0 * * * *'
