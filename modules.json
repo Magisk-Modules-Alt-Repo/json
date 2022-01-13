@@ -86,6 +86,13 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus/archive/master.zip"
         },
         {
+            "id": "GPay-SQLite-Fix",
+            "last_update": 1642059079000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GPay-SQLite-Fix/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GPay-SQLite-Fix/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GPay-SQLite-Fix/archive/master.zip"
+        },
+        {
             "id": "huskydg_bootloopsaver",
             "last_update": 1641406811000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/README.md",
@@ -142,6 +149,20 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font/archive/master.zip"
         },
         {
+            "id": "MagiskHideDenyBackup",
+            "last_update": 1642061329000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHideDenyBackup/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHideDenyBackup/main/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MagiskHideDenyBackup/archive/main.zip"
+        },
+        {
+            "id": "MagiskHideDenyRestore",
+            "last_update": 1642061451000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHideDenyRestore/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHideDenyRestore/main/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MagiskHideDenyRestore/archive/main.zip"
+        },
+        {
             "id": "NotchBarKiller",
             "last_update": 1607614311000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NotchBarKiller/master/README.md",
@@ -154,6 +175,13 @@
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/saturation/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/saturation/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/saturation/archive/master.zip"
+        },
+        {
+            "id": "SQLite3-Universal-Binaries ",
+            "last_update": 1642059959000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SQLite3-Universal-Binaries/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SQLite3-Universal-Binaries/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/SQLite3-Universal-Binaries/archive/master.zip"
         },
         {
             "id": "usb-samplerate-unlocker",
