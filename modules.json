@@ -177,7 +177,7 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/saturation/archive/master.zip"
         },
         {
-            "id": "SQLite3-Universal-Binaries ",
+            "id": "SQLite3-Universal-Binaries",
             "last_update": 1642059959000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SQLite3-Universal-Binaries/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SQLite3-Universal-Binaries/master/module.prop",
