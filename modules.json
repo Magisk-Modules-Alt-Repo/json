@@ -87,7 +87,7 @@
         },
         {
             "id": "GPay-SQLite-Fix",
-            "last_update": 1642244054000,
+            "last_update": 1642447926000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GPay-SQLite-Fix/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GPay-SQLite-Fix/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GPay-SQLite-Fix/archive/master.zip"
@@ -178,7 +178,7 @@
         },
         {
             "id": "SQLite3-Universal-Binaries",
-            "last_update": 1642059959000,
+            "last_update": 1642447890000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SQLite3-Universal-Binaries/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SQLite3-Universal-Binaries/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/SQLite3-Universal-Binaries/archive/master.zip"
