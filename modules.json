@@ -87,7 +87,7 @@
         },
         {
             "id": "FOSSAPPS",
-            "last_update": 1643472837000,
+            "last_update": 1643488755000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FOSSAPPS/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FOSSAPPS/main/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/FOSSAPPS/archive/main.zip"
@@ -220,7 +220,7 @@
         },
         {
             "id": "SystemlessDebloater",
-            "last_update": 1643482163000,
+            "last_update": 1643489169000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/main/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/archive/main.zip"
