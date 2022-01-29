@@ -184,6 +184,13 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/SQLite3-Universal-Binaries/archive/master.zip"
         },
         {
+            "id": "SystemlessDebloater",
+            "last_update": 1643465084000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/main/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/archive/main.zip"
+        },
+        {
             "id": "usb-samplerate-unlocker",
             "last_update": 1643007965000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
