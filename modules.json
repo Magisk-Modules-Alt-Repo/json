@@ -2,6 +2,13 @@
     "last_update": 1598596016000,
     "modules": [
         {
+            "id": "acc",
+            "last_update": 1643481555000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/acc/dev/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/acc/dev/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/acc/archive/dev.zip"
+        },
+        {
             "id": "AFWall-Boot-AntiLeak",
             "last_update": 1643472685000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/main/README.md",
@@ -10,7 +17,7 @@
         },
         {
             "id": "audio-misc-settings",
-            "last_update": 1643008068000,
+            "last_update": 1643482156000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/archive/master.zip"
@@ -58,6 +65,27 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/cmdpatch/archive/master.zip"
         },
         {
+            "id": "djs",
+            "last_update": 1643482103000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/djs/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/djs/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/djs/archive/master.zip"
+        },
+        {
+            "id": "vr25.fbind",
+            "last_update": 1643482977000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/fbind/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/fbind/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/fbind/archive/master.zip"
+        },
+        {
+            "id": "Font-Evolve-Sans",
+            "last_update": 1643482758000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Font-Evolve-Sans/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Font-Evolve-Sans/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Font-Evolve-Sans/archive/master.zip"
+        },
+        {
             "id": "FOSSAPPS",
             "last_update": 1643472837000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FOSSAPPS/main/README.md",
@@ -87,7 +115,7 @@
         },
         {
             "id": "GPay-SQLite-Fix",
-            "last_update": 1643472515000,
+            "last_update": 1643482173000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GPay-SQLite-Fix/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GPay-SQLite-Fix/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GPay-SQLite-Fix/archive/master.zip"
@@ -150,7 +178,7 @@
         },
         {
             "id": "MagiskHideDenyBackup",
-            "last_update": 1643472627000,
+            "last_update": 1643482176000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHideDenyBackup/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHideDenyBackup/main/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MagiskHideDenyBackup/archive/main.zip"
@@ -192,7 +220,7 @@
         },
         {
             "id": "SystemlessDebloater",
-            "last_update": 1643465084000,
+            "last_update": 1643482163000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/main/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/archive/main.zip"
@@ -217,6 +245,13 @@
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Zeetaa-Tweaks/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Zeetaa-Tweaks/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Zeetaa-Tweaks/archive/master.zip"
+        },
+        {
+            "id": "zram-swap-manager",
+            "last_update": 1643482979000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/zram-swap-manager/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/zram-swap-manager/master/module.prop",
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/zram-swap-manager/archive/master.zip"
         }
     ],
     "name": "Magisk Modules Alt Repo"
