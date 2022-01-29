@@ -3,7 +3,7 @@
     "modules": [
         {
             "id": "AFWall-Boot-AntiLeak",
-            "last_update": 1642117681000,
+            "last_update": 1643472685000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/main/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/archive/main.zip"
@@ -31,7 +31,7 @@
         },
         {
             "id": "charch",
-            "last_update": 1638831721000,
+            "last_update": 1643472701000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/charch/archive/master.zip"
@@ -45,7 +45,7 @@
         },
         {
             "id": "charch_sshd",
-            "last_update": 1641838282000,
+            "last_update": 1643473507000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_sshd/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_sshd/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/charch_sshd/archive/master.zip"
@@ -59,7 +59,7 @@
         },
         {
             "id": "FOSSAPPS",
-            "last_update": 1638437397000,
+            "last_update": 1643472837000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FOSSAPPS/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FOSSAPPS/main/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/FOSSAPPS/archive/main.zip"
@@ -87,21 +87,21 @@
         },
         {
             "id": "GPay-SQLite-Fix",
-            "last_update": 1642447926000,
+            "last_update": 1643472515000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GPay-SQLite-Fix/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GPay-SQLite-Fix/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GPay-SQLite-Fix/archive/master.zip"
         },
         {
             "id": "huskydg_bootloopsaver",
-            "last_update": 1643438110000,
+            "last_update": 1643472665000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/archive/master.zip"
         },
         {
             "id": "huskydg_swapram",
-            "last_update": 1640796034000,
+            "last_update": 1643472753000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_SwapRAM/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_SwapRAM/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_SwapRAM/archive/master.zip"
@@ -129,7 +129,7 @@
         },
         {
             "id": "magisk-drm-disabler",
-            "last_update": 1615917351000,
+            "last_update": 1643472765000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-DRM-Disabler/archive/master.zip"
@@ -150,7 +150,7 @@
         },
         {
             "id": "MagiskHideDenyBackup",
-            "last_update": 1643431345000,
+            "last_update": 1643472627000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHideDenyBackup/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHideDenyBackup/main/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MagiskHideDenyBackup/archive/main.zip"
@@ -185,7 +185,7 @@
         },
         {
             "id": "SQLite3-Universal-Binaries",
-            "last_update": 1642447890000,
+            "last_update": 1643472501000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SQLite3-Universal-Binaries/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SQLite3-Universal-Binaries/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/SQLite3-Universal-Binaries/archive/master.zip"
@@ -199,7 +199,7 @@
         },
         {
             "id": "usb-samplerate-unlocker",
-            "last_update": 1643007965000,
+            "last_update": 1643472491000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/module.prop",
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/archive/master.zip"
