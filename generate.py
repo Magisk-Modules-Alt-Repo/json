@@ -41,7 +41,8 @@ for repo in repos:
             "last_update": int(repo.updated_at.timestamp() * 1000),
             "prop_url": f"https://raw.githubusercontent.com/{repo.full_name}/{repo.default_branch}/module.prop",
             "zip_url": f"https://github.com/{repo.full_name}/archive/{repo.default_branch}.zip",
-            "notes_url": f"https://raw.githubusercontent.com/{repo.full_name}/{repo.default_branch}/README.md"
+            "notes_url": f"https://raw.githubusercontent.com/{repo.full_name}/{repo.default_branch}/README.md",
+            "stars": int(repo.stargazers_count)
         }
 
         # Append to skeleton
