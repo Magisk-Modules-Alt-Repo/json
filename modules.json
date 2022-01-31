@@ -26,6 +26,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/2_MARS_SOM_OVERLAY-GEAR_SECOND/archive/stable.zip"
         },
         {
+            "id": "3_MARS_SOM_SYSTEM-GEAR_THIRD ",
+            "last_update": 1643650757000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/3_MARS_SOM_SYSTEM-GEAR_THIRD/stable/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/3_MARS_SOM_SYSTEM-GEAR_THIRD/stable/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/3_MARS_SOM_SYSTEM-GEAR_THIRD/archive/stable.zip"
+        },
+        {
             "id": "acc",
             "last_update": 1643481555000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/acc/dev/README.md",
@@ -259,10 +267,10 @@
         },
         {
             "id": "microg_installer",
-            "last_update": 1643544709000,
+            "last_update": 1643650522000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/module.prop",
-            "stars": 1,
+            "stars": 2,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microg_installer/archive/master.zip"
         },
         {
