@@ -2,6 +2,30 @@
     "last_update": 1598596016000,
     "modules": [
         {
+            "id": "0_MARS_SOM_CLEANER-GEAR_ZERO",
+            "last_update": 1643645975000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/0_MARS_SOM_CLEANER-GEAR_ZERO/stable/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/0_MARS_SOM_CLEANER-GEAR_ZERO/stable/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/0_MARS_SOM_CLEANER-GEAR_ZERO/archive/stable.zip"
+        },
+        {
+            "id": "1_MARS_SOM_BASE-GEAR_FIRST ",
+            "last_update": 1643646074000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/1_MARS_SOM_BASE-GEAR_FIRST/stable/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/1_MARS_SOM_BASE-GEAR_FIRST/stable/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/1_MARS_SOM_BASE-GEAR_FIRST/archive/stable.zip"
+        },
+        {
+            "id": "2_MARS_SOM_OVERLAY-GEAR_SECOND",
+            "last_update": 1643646135000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/2_MARS_SOM_OVERLAY-GEAR_SECOND/stable/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/2_MARS_SOM_OVERLAY-GEAR_SECOND/stable/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/2_MARS_SOM_OVERLAY-GEAR_SECOND/archive/stable.zip"
+        },
+        {
             "id": "acc",
             "last_update": 1643481555000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/acc/dev/README.md",
