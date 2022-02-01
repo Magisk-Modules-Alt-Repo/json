@@ -26,7 +26,7 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/2_MARS_SOM_OVERLAY-GEAR_SECOND/archive/12.zip"
         },
         {
-            "id": "3_MARS_SOM_SYSTEM-GEAR_THIRD ",
+            "id": "3_MARS_SOM_SYSTEM-GEAR_THIRD",
             "last_update": 1643650757000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/3_MARS_SOM_SYSTEM-GEAR_THIRD/12/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/3_MARS_SOM_SYSTEM-GEAR_THIRD/12/module.prop",
@@ -43,10 +43,10 @@
         },
         {
             "id": "AFWall-Boot-AntiLeak",
-            "last_update": 1643472685000,
+            "last_update": 1643749404000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/main/module.prop",
-            "stars": 4,
+            "stars": 5,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/archive/main.zip"
         },
         {
@@ -107,7 +107,7 @@
         },
         {
             "id": "Detach",
-            "last_update": 1643543851000,
+            "last_update": 1643749192000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Detach/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Detach/master/module.prop",
             "stars": 0,
@@ -171,18 +171,18 @@
         },
         {
             "id": "GPay-SQLite-Fix",
-            "last_update": 1643482173000,
+            "last_update": 1643749182000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GPay-SQLite-Fix/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GPay-SQLite-Fix/master/module.prop",
-            "stars": 4,
+            "stars": 5,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GPay-SQLite-Fix/archive/master.zip"
         },
         {
             "id": "huskydg_bootloopsaver",
-            "last_update": 1643711392000,
+            "last_update": 1643749357000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/module.prop",
-            "stars": 26,
+            "stars": 27,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/archive/master.zip"
         },
         {
@@ -291,10 +291,10 @@
         },
         {
             "id": "SQLite3-Universal-Binaries",
-            "last_update": 1643472501000,
+            "last_update": 1643749169000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SQLite3-Universal-Binaries/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SQLite3-Universal-Binaries/master/module.prop",
-            "stars": 2,
+            "stars": 3,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/SQLite3-Universal-Binaries/archive/master.zip"
         },
         {
