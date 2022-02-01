@@ -243,18 +243,18 @@
         },
         {
             "id": "MagiskHideDenyBackup",
-            "last_update": 1643482176000,
+            "last_update": 1643709408000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHideDenyBackup/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHideDenyBackup/main/module.prop",
-            "stars": 2,
+            "stars": 3,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MagiskHideDenyBackup/archive/main.zip"
         },
         {
             "id": "MagiskHideDenyRestore",
-            "last_update": 1643431333000,
+            "last_update": 1643709428000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHideDenyRestore/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHideDenyRestore/main/module.prop",
-            "stars": 0,
+            "stars": 1,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MagiskHideDenyRestore/archive/main.zip"
         },
         {
