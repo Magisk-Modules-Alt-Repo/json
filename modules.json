@@ -35,11 +35,11 @@
         },
         {
             "id": "acc",
-            "last_update": 1643481555000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/acc/dev/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/acc/dev/module.prop",
+            "last_update": 1643895371000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/acc/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/acc/master/module.prop",
             "stars": 1,
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/acc/archive/dev.zip"
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/acc/archive/master.zip"
         },
         {
             "id": "AFWall-Boot-AntiLeak",
