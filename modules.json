@@ -171,7 +171,7 @@
         },
         {
             "id": "huskydg_bootloopsaver",
-            "last_update": 1643776041000,
+            "last_update": 1643996371000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/module.prop",
             "stars": 28,
@@ -179,7 +179,7 @@
         },
         {
             "id": "huskydg_swapram",
-            "last_update": 1643472753000,
+            "last_update": 1643996347000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_SwapRAM/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_SwapRAM/master/module.prop",
             "stars": 6,
@@ -251,7 +251,7 @@
         },
         {
             "id": "NotchBarKiller",
-            "last_update": 1607614311000,
+            "last_update": 1643995870000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NotchBarKiller/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NotchBarKiller/master/module.prop",
             "stars": 2,
