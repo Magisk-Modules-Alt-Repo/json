@@ -171,10 +171,10 @@
         },
         {
             "id": "huskydg_bootloopsaver",
-            "last_update": 1644035808000,
+            "last_update": 1644064823000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/module.prop",
-            "stars": 28,
+            "stars": 29,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/archive/master.zip"
         },
         {
@@ -264,6 +264,14 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NotchBarKiller/master/module.prop",
             "stars": 2,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NotchBarKiller/archive/master.zip"
+        },
+        {
+            "id": "OnePlus6Oxygen_22.J.62_debloater",
+            "last_update": 1644064092000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/OnePlus6Oxygen_22.J.62_debloater/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/OnePlus6Oxygen_22.J.62_debloater/main/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/OnePlus6Oxygen_22.J.62_debloater/archive/main.zip"
         },
         {
             "id": "saturation",
