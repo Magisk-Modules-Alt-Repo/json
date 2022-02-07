@@ -291,7 +291,7 @@
         },
         {
             "id": "systemui-bootloop",
-            "last_update": 1644063794000,
+            "last_update": 1644259044000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemui-bootloop/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemui-bootloop/main/module.prop",
             "stars": 0,
