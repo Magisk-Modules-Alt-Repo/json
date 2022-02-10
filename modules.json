@@ -106,6 +106,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/archive/master.zip"
         },
         {
+            "id": "CloudflareDNS4Magisk-IPv6",
+            "last_update": 1644449547000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6/master/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk-IPv6/archive/master.zip"
+        },
+        {
             "id": "cmdpatch",
             "last_update": 1644112387000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/cmdpatch/master/README.md",
