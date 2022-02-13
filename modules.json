@@ -123,7 +123,7 @@
         },
         {
             "id": "custom-certificate-authorities",
-            "last_update": 1644746052000,
+            "last_update": 1644752726000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/module.prop",
             "stars": 2,
