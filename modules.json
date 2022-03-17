@@ -91,34 +91,34 @@
         },
         {
             "id": "charch",
-            "last_update": 1646768312000,
+            "last_update": 1647482007000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch/master/module.prop",
-            "stars": 4,
+            "stars": 5,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/charch/archive/master.zip"
         },
         {
             "id": "charch_dinit",
-            "last_update": 1645961281000,
+            "last_update": 1647481989000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_dinit/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_dinit/master/module.prop",
-            "stars": 0,
+            "stars": 1,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/charch_dinit/archive/master.zip"
         },
         {
             "id": "charch_openrc",
-            "last_update": 1641629601000,
+            "last_update": 1647482028000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_openrc/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_openrc/master/module.prop",
-            "stars": 2,
+            "stars": 3,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/charch_openrc/archive/master.zip"
         },
         {
             "id": "charch_sshd",
-            "last_update": 1643473507000,
+            "last_update": 1647482035000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_sshd/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_sshd/master/module.prop",
-            "stars": 3,
+            "stars": 4,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/charch_sshd/archive/master.zip"
         },
         {
@@ -307,10 +307,10 @@
         },
         {
             "id": "magisk_overlayfs",
-            "last_update": 1646663612000,
+            "last_update": 1647481662000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/module.prop",
-            "stars": 1,
+            "stars": 2,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/archive/master.zip"
         },
         {
