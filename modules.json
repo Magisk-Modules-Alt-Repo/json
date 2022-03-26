@@ -170,6 +170,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/djs/archive/master.zip"
         },
         {
+            "id": "drc-remover",
+            "last_update": 1648323813000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover/archive/master.zip"
+        },
+        {
             "id": "Evolve-Evo",
             "last_update": 1643628629000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Evolve-Evo/master/README.md",
