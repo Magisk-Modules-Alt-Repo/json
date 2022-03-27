@@ -210,6 +210,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/gaming/archive/master.zip"
         },
         {
+            "id": "gboard-dict-3",
+            "last_update": 1648372683000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gboard-dict-3/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gboard-dict-3/master/module.prop",
+            "stars": 2,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/gboard-dict-3/archive/master.zip"
+        },
+        {
             "id": "Google-Sans",
             "last_update": 1635339612000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans/master/README.md",
@@ -408,6 +416,14 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/main/module.prop",
             "stars": 4,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/archive/main.zip"
+        },
+        {
+            "id": "trichromelibrary-squoosh",
+            "last_update": 1648371258000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/master/module.prop",
+            "stars": 1,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/archive/master.zip"
         },
         {
             "id": "ttf-twemoji",
