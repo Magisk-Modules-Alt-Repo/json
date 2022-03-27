@@ -83,10 +83,10 @@
         },
         {
             "id": "BuiltIn-BusyBox",
-            "last_update": 1647319300000,
+            "last_update": 1648397141000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/module.prop",
-            "stars": 7,
+            "stars": 6,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/archive/main.zip"
         },
         {
@@ -211,10 +211,10 @@
         },
         {
             "id": "gboard-dict-3",
-            "last_update": 1648389505000,
+            "last_update": 1648395793000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gboard-dict-3/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gboard-dict-3/master/module.prop",
-            "stars": 4,
+            "stars": 5,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/gboard-dict-3/archive/master.zip"
         },
         {
@@ -275,10 +275,10 @@
         },
         {
             "id": "Lawnchair",
-            "last_update": 1648111776000,
+            "last_update": 1648397137000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Lawnchair/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Lawnchair/main/module.prop",
-            "stars": 4,
+            "stars": 3,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Lawnchair/archive/main.zip"
         },
         {
@@ -331,18 +331,18 @@
         },
         {
             "id": "microG-GApps",
-            "last_update": 1647774063000,
+            "last_update": 1648397149000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/module.prop",
-            "stars": 2,
+            "stars": 1,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps/archive/master.zip"
         },
         {
             "id": "microg_installer",
-            "last_update": 1647319359000,
+            "last_update": 1648397147000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/module.prop",
-            "stars": 8,
+            "stars": 7,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microg_installer/archive/master.zip"
         },
         {
@@ -395,10 +395,10 @@
         },
         {
             "id": "SystemlessDebloater",
-            "last_update": 1647319101000,
+            "last_update": 1648397132000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/main/module.prop",
-            "stars": 5,
+            "stars": 4,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/archive/main.zip"
         },
         {
@@ -427,10 +427,10 @@
         },
         {
             "id": "ttf-twemoji",
-            "last_update": 1648073763000,
+            "last_update": 1648397144000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ttf-twemoji/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ttf-twemoji/main/module.prop",
-            "stars": 3,
+            "stars": 2,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji/archive/main.zip"
         },
         {
