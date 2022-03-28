@@ -171,10 +171,10 @@
         },
         {
             "id": "drc-remover",
-            "last_update": 1648453226000,
+            "last_update": 1648458789000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/module.prop",
-            "stars": 6,
+            "stars": 7,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover/archive/master.zip"
         },
         {
