@@ -203,10 +203,10 @@
         },
         {
             "id": "gaming",
-            "last_update": 1648382339000,
+            "last_update": 1648829413000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gaming/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gaming/master/module.prop",
-            "stars": 26,
+            "stars": 27,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/gaming/archive/master.zip"
         },
         {
