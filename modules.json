@@ -323,10 +323,10 @@
         },
         {
             "id": "magisk_overlayfs",
-            "last_update": 1649231179000,
+            "last_update": 1649257852000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/module.prop",
-            "stars": 8,
+            "stars": 9,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/archive/master.zip"
         },
         {
@@ -355,10 +355,10 @@
         },
         {
             "id": "NoStorageRestrict",
-            "last_update": 1649253346000,
+            "last_update": 1649256123000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/module.prop",
-            "stars": 26,
+            "stars": 27,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/archive/main.zip"
         },
         {
