@@ -290,6 +290,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/archive/master.zip"
         },
         {
+            "id": "magic-flash",
+            "last_update": 1650029037000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/main/module.prop",
+            "stars": 2,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash/archive/main.zip"
+        },
+        {
             "id": "magisk-captive-control",
             "last_update": 1649213419000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Captive-Control/master/README.md",
@@ -386,6 +394,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/OnePlus6Oxygen_22.J.62_debloater/archive/main.zip"
         },
         {
+            "id": "open_fonts",
+            "last_update": 1650028835000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_fonts/archive/master.zip"
+        },
+        {
             "id": "PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX",
             "last_update": 1647206634000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/main/README.md",
@@ -458,12 +474,12 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass/archive/master.zip"
         },
         {
-            "id": "ZeetaaTweaksApp",
-            "last_update": 1643812177000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Zeetaa-Tweaks/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Zeetaa-Tweaks/master/module.prop",
-            "stars": 2,
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Zeetaa-Tweaks/archive/master.zip"
+            "id": "ZeetaaTweaks",
+            "last_update": 1650028995000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ZeetaaTweaks/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ZeetaaTweaks/main/module.prop",
+            "stars": 1,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ZeetaaTweaks/archive/main.zip"
         },
         {
             "id": "zram-swap-manager",
