@@ -59,10 +59,10 @@
         },
         {
             "id": "backup",
-            "last_update": 1650172787000,
+            "last_update": 1650403256000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/backup/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/backup/master/module.prop",
-            "stars": 15,
+            "stars": 16,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/backup/archive/master.zip"
         },
         {
@@ -251,10 +251,10 @@
         },
         {
             "id": "huskydg_bootloopsaver",
-            "last_update": 1650341908000,
+            "last_update": 1650403348000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/module.prop",
-            "stars": 107,
+            "stars": 108,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/archive/master.zip"
         },
         {
@@ -363,10 +363,10 @@
         },
         {
             "id": "NoStorageRestrict",
-            "last_update": 1649767958000,
+            "last_update": 1650403169000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/module.prop",
-            "stars": 28,
+            "stars": 29,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/archive/main.zip"
         },
         {
