@@ -291,10 +291,10 @@
         },
         {
             "id": "magic-flash",
-            "last_update": 1650732281000,
+            "last_update": 1650735640000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/main/module.prop",
-            "stars": 18,
+            "stars": 21,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash/archive/main.zip"
         },
         {
