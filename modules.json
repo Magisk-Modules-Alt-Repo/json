@@ -283,10 +283,10 @@
         },
         {
             "id": "MacRandomizationEnabler",
-            "last_update": 1638227420000,
+            "last_update": 1652322187000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/master/module.prop",
-            "stars": 2,
+            "stars": 3,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/archive/master.zip"
         },
         {
@@ -395,10 +395,10 @@
         },
         {
             "id": "open_fonts",
-            "last_update": 1651362428000,
+            "last_update": 1652321607000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/module.prop",
-            "stars": 7,
+            "stars": 8,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_fonts/archive/master.zip"
         },
         {
@@ -427,10 +427,10 @@
         },
         {
             "id": "systemui-bootloop",
-            "last_update": 1651402910000,
+            "last_update": 1652322067000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemui-bootloop/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemui-bootloop/main/module.prop",
-            "stars": 4,
+            "stars": 5,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/systemui-bootloop/archive/main.zip"
         },
         {
