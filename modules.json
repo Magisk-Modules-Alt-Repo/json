@@ -211,7 +211,7 @@
         },
         {
             "id": "gboard-dict-3",
-            "last_update": 1652278452000,
+            "last_update": 1652473645000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gboard-dict-3/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gboard-dict-3/master/module.prop",
             "stars": 19,
@@ -291,10 +291,10 @@
         },
         {
             "id": "magic-flash",
-            "last_update": 1652463196000,
+            "last_update": 1652474734000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/main/module.prop",
-            "stars": 71,
+            "stars": 70,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash/archive/main.zip"
         },
         {
