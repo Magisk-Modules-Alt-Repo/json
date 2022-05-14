@@ -331,10 +331,10 @@
         },
         {
             "id": "magisk_overlayfs",
-            "last_update": 1652168297000,
+            "last_update": 1652543421000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/module.prop",
-            "stars": 21,
+            "stars": 22,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/archive/master.zip"
         },
         {
