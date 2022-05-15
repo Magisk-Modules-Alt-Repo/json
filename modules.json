@@ -211,10 +211,10 @@
         },
         {
             "id": "gboard-dict-3",
-            "last_update": 1652473645000,
+            "last_update": 1652627311000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gboard-dict-3/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gboard-dict-3/master/module.prop",
-            "stars": 19,
+            "stars": 20,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/gboard-dict-3/archive/master.zip"
         },
         {
@@ -403,7 +403,7 @@
         },
         {
             "id": "open_fonts",
-            "last_update": 1652563149000,
+            "last_update": 1652627213000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/module.prop",
             "stars": 9,
