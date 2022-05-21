@@ -123,10 +123,10 @@
         },
         {
             "id": "CloudflareDNS4Magisk",
-            "last_update": 1652245370000,
+            "last_update": 1653108592000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/master/module.prop",
-            "stars": 1,
+            "stars": 2,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/archive/master.zip"
         },
         {
@@ -403,10 +403,10 @@
         },
         {
             "id": "open_fonts",
-            "last_update": 1652736416000,
+            "last_update": 1653108506000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/module.prop",
-            "stars": 9,
+            "stars": 10,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_fonts/archive/master.zip"
         },
         {
