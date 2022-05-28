@@ -339,10 +339,10 @@
         },
         {
             "id": "magiskapp_freezer",
-            "last_update": 1653672686000,
+            "last_update": 1653703976000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magiskapp_freezer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magiskapp_freezer/main/module.prop",
-            "stars": 18,
+            "stars": 19,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magiskapp_freezer/archive/main.zip"
         },
         {
