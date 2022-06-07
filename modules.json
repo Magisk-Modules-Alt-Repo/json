@@ -251,10 +251,10 @@
         },
         {
             "id": "huskydg_bootloopsaver",
-            "last_update": 1654362059000,
+            "last_update": 1654581336000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/module.prop",
-            "stars": 161,
+            "stars": 160,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/archive/master.zip"
         },
         {
@@ -339,10 +339,10 @@
         },
         {
             "id": "magiskapp_freezer",
-            "last_update": 1654353107000,
+            "last_update": 1654580930000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magiskapp_freezer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magiskapp_freezer/main/module.prop",
-            "stars": 22,
+            "stars": 23,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magiskapp_freezer/archive/main.zip"
         },
         {
