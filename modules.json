@@ -187,10 +187,10 @@
         },
         {
             "id": "vr25.fbind",
-            "last_update": 1654054169000,
+            "last_update": 1654712893000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/fbind/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/fbind/master/module.prop",
-            "stars": 4,
+            "stars": 5,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/fbind/archive/master.zip"
         },
         {
@@ -251,10 +251,10 @@
         },
         {
             "id": "huskydg_bootloopsaver",
-            "last_update": 1654697164000,
+            "last_update": 1654712689000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/module.prop",
-            "stars": 162,
+            "stars": 163,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/archive/master.zip"
         },
         {
@@ -515,10 +515,10 @@
         },
         {
             "id": "zram-swap-manager",
-            "last_update": 1652017046000,
+            "last_update": 1654712900000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/zram-swap-manager/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/zram-swap-manager/master/module.prop",
-            "stars": 5,
+            "stars": 6,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/zram-swap-manager/archive/master.zip"
         }
     ],
