@@ -51,10 +51,10 @@
         },
         {
             "id": "audio-misc-settings",
-            "last_update": 1653784028000,
+            "last_update": 1655158534000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
-            "stars": 38,
+            "stars": 39,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/archive/master.zip"
         },
         {
@@ -347,10 +347,10 @@
         },
         {
             "id": "magiskapp_freezer",
-            "last_update": 1654965430000,
+            "last_update": 1655158588000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magiskapp_freezer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magiskapp_freezer/main/module.prop",
-            "stars": 26,
+            "stars": 27,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magiskapp_freezer/archive/main.zip"
         },
         {
@@ -419,10 +419,10 @@
         },
         {
             "id": "open_fonts",
-            "last_update": 1654871634000,
+            "last_update": 1655156722000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/module.prop",
-            "stars": 12,
+            "stars": 13,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_fonts/archive/master.zip"
         },
         {
