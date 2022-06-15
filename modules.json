@@ -346,14 +346,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font/archive/master.zip"
         },
         {
-            "id": "magiskapp_freezer",
-            "last_update": 1655268315000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magiskapp_freezer/main/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magiskapp_freezer/main/module.prop",
-            "stars": 28,
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magiskapp_freezer/archive/main.zip"
-        },
-        {
             "id": "magisk_overlayfs",
             "last_update": 1655090367000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/README.md",
