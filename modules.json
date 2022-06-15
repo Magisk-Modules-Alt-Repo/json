@@ -171,10 +171,10 @@
         },
         {
             "id": "drc-remover",
-            "last_update": 1653375771000,
+            "last_update": 1655295869000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/module.prop",
-            "stars": 20,
+            "stars": 21,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover/archive/master.zip"
         },
         {
@@ -371,10 +371,10 @@
         },
         {
             "id": "MiXplorer",
-            "last_update": 1654858144000,
+            "last_update": 1655295309000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/module.prop",
-            "stars": 24,
+            "stars": 25,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/archive/main.zip"
         },
         {
