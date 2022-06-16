@@ -26,14 +26,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/2_MARS_SOM_OVERLAY-GEAR_SECOND/archive/main.zip"
         },
         {
-            "id": "3_MARS_SOM_SYSTEM-GEAR_THIRD",
-            "last_update": 1651977288000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/3_MARS_SOM_SYSTEM-GEAR_THIRD/main/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/3_MARS_SOM_SYSTEM-GEAR_THIRD/main/module.prop",
-            "stars": 2,
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/3_MARS_SOM_SYSTEM-GEAR_THIRD/archive/main.zip"
-        },
-        {
             "id": "acc",
             "last_update": 1644965255000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/acc/master/README.md",
@@ -352,6 +344,14 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/module.prop",
             "stars": 29,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/archive/master.zip"
+        },
+        {
+            "id": "3_MARS_SOM_SYSTEM-GEAR_THIRD",
+            "last_update": 1655383375000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MARS/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MARS/main/module.prop",
+            "stars": 2,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MARS/archive/main.zip"
         },
         {
             "id": "microG-GApps",
