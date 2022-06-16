@@ -346,7 +346,7 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/archive/master.zip"
         },
         {
-            "id": "3_MARS_SOM_SYSTEM-GEAR_THIRD",
+            "id": "MARS",
             "last_update": 1655383375000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MARS/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MARS/main/module.prop",
