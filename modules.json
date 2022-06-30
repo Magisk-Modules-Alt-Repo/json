@@ -243,10 +243,10 @@
         },
         {
             "id": "HideNavBar",
-            "last_update": 1656334852000,
+            "last_update": 1656596367000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/module.prop",
-            "stars": 17,
+            "stars": 16,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar/archive/master.zip"
         },
         {
@@ -259,10 +259,10 @@
         },
         {
             "id": "huskydg_bootloopsaver",
-            "last_update": 1656389247000,
+            "last_update": 1656596369000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/module.prop",
-            "stars": 185,
+            "stars": 184,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/archive/master.zip"
         },
         {
