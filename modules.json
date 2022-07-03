@@ -259,10 +259,10 @@
         },
         {
             "id": "huskydg_bootloopsaver",
-            "last_update": 1656618479000,
+            "last_update": 1656837356000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/module.prop",
-            "stars": 185,
+            "stars": 186,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/archive/master.zip"
         },
         {
@@ -507,10 +507,10 @@
         },
         {
             "id": "vintf-bypass",
-            "last_update": 1656061331000,
+            "last_update": 1656839972000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/vintf-bypass/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/vintf-bypass/master/module.prop",
-            "stars": 5,
+            "stars": 6,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass/archive/master.zip"
         },
         {
