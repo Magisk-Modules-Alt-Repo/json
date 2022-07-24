@@ -27,10 +27,10 @@
         },
         {
             "id": "acc",
-            "last_update": 1656061131000,
+            "last_update": 1658687656000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/acc/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/acc/master/module.prop",
-            "stars": 3,
+            "stars": 4,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/acc/archive/master.zip"
         },
         {
@@ -43,10 +43,10 @@
         },
         {
             "id": "audio-jitter-silencer",
-            "last_update": 1658412795000,
+            "last_update": 1658687426000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/module.prop",
-            "stars": 4,
+            "stars": 5,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/archive/main.zip"
         },
         {
@@ -251,10 +251,10 @@
         },
         {
             "id": "hide_userdebug",
-            "last_update": 1657693953000,
+            "last_update": 1658687589000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/hide_userdebug/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/hide_userdebug/master/module.prop",
-            "stars": 5,
+            "stars": 6,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/hide_userdebug/archive/master.zip"
         },
         {
@@ -347,10 +347,10 @@
         },
         {
             "id": "magisk_overlayfs",
-            "last_update": 1658566069000,
+            "last_update": 1658687550000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/module.prop",
-            "stars": 37,
+            "stars": 38,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/archive/master.zip"
         },
         {
@@ -363,10 +363,10 @@
         },
         {
             "id": "microG-GApps",
-            "last_update": 1658178215000,
+            "last_update": 1658687620000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/module.prop",
-            "stars": 18,
+            "stars": 19,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps/archive/master.zip"
         },
         {
@@ -483,10 +483,10 @@
         },
         {
             "id": "trichromelibrary-squoosh",
-            "last_update": 1658557941000,
+            "last_update": 1658687561000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/master/module.prop",
-            "stars": 10,
+            "stars": 11,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/archive/master.zip"
         },
         {
@@ -515,10 +515,10 @@
         },
         {
             "id": "YAKT",
-            "last_update": 1655923488000,
+            "last_update": 1658687420000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/main/module.prop",
-            "stars": 7,
+            "stars": 8,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/YAKT/archive/main.zip"
         },
         {
