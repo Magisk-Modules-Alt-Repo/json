@@ -251,10 +251,10 @@
         },
         {
             "id": "hide_userdebug",
-            "last_update": 1658687589000,
+            "last_update": 1658825861000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/hide_userdebug/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/hide_userdebug/master/module.prop",
-            "stars": 6,
+            "stars": 5,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/hide_userdebug/archive/master.zip"
         },
         {
@@ -299,10 +299,10 @@
         },
         {
             "id": "MacRandomizationEnabler",
-            "last_update": 1656800420000,
+            "last_update": 1658825860000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/master/module.prop",
-            "stars": 6,
+            "stars": 5,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/archive/master.zip"
         },
         {
