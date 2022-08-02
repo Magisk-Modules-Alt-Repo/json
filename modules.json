@@ -283,10 +283,10 @@
         },
         {
             "id": "huskydg_bootloopsaver",
-            "last_update": 1659316069000,
+            "last_update": 1659466166000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/module.prop",
-            "stars": 219,
+            "stars": 220,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/archive/master.zip"
         },
         {
@@ -307,10 +307,10 @@
         },
         {
             "id": "Lawnchair",
-            "last_update": 1659087076000,
+            "last_update": 1659466271000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Lawnchair/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Lawnchair/main/module.prop",
-            "stars": 43,
+            "stars": 44,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Lawnchair/archive/main.zip"
         },
         {
