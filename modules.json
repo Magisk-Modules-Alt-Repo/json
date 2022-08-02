@@ -122,6 +122,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/charch_sshd/archive/master.zip"
         },
         {
+            "id": "Clash4Magisk",
+            "last_update": 1659456983000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Clash4Magisk/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Clash4Magisk/master/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Clash4Magisk/archive/master.zip"
+        },
+        {
             "id": "CloudflareDNS4Magisk",
             "last_update": 1656598029000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CloudflareDNS4Magisk/master/README.md",
@@ -216,6 +224,14 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gboard-dict-3/master/module.prop",
             "stars": 25,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/gboard-dict-3/archive/master.zip"
+        },
+        {
+            "id": "GMSDoze",
+            "last_update": 1659456459000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/main/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze/archive/main.zip"
         },
         {
             "id": "Google-Sans",
@@ -386,6 +402,22 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/archive/main.zip"
         },
         {
+            "id": "NavBar_Resize",
+            "last_update": 1659457147000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NavBar_Resize/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NavBar_Resize/main/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize/archive/main.zip"
+        },
+        {
+            "id": "NavBar_Resize_Miui10-11-12",
+            "last_update": 1659457338000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NavBar_Resize_Miui10-11-12/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NavBar_Resize_Miui10-11-12/main/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_Miui10-11-12/archive/main.zip"
+        },
+        {
             "id": "NoStorageRestrict",
             "last_update": 1659367222000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/README.md",
@@ -432,6 +464,14 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/main/module.prop",
             "stars": 1,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/archive/main.zip"
+        },
+        {
+            "id": "qdl-ndk",
+            "last_update": 1659457850000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/qdl-ndk/qdl-master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/qdl-ndk/qdl-master/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/qdl-ndk/archive/qdl-master.zip"
         },
         {
             "id": "riru-integrityfix",
@@ -504,6 +544,14 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ttf-twemoji/main/module.prop",
             "stars": 2,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji/archive/main.zip"
+        },
+        {
+            "id": "upx-ndk",
+            "last_update": 1659457621000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/upx-ndk/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/upx-ndk/master/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/upx-ndk/archive/master.zip"
         },
         {
             "id": "usb-samplerate-unlocker",
