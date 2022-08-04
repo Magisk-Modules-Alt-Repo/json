@@ -226,20 +226,20 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/gboard-dict-3/archive/master.zip"
         },
         {
+            "id": "GMSDozeBlockFind",
+            "last_update": 1659620497000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice/main/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice/archive/main.zip"
+        },
+        {
             "id": "GMSDoze",
             "last_update": 1659558395000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/main/module.prop",
             "stars": 0,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze/archive/main.zip"
-        },
-        {
-            "id": "GMSDozeBlockFind",
-            "last_update": 1659619751000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDozeBlockFind/main/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDozeBlockFind/main/module.prop",
-            "stars": 0,
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GMSDozeBlockFind/archive/main.zip"
         },
         {
             "id": "Google-Sans",
