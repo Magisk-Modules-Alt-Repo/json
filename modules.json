@@ -234,6 +234,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze/archive/main.zip"
         },
         {
+            "id": "GMSDozeBlockFind",
+            "last_update": 1659574320000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDozeBlockFind/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDozeBlockFind/main/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GMSDozeBlockFind/archive/main.zip"
+        },
+        {
             "id": "Google-Sans",
             "last_update": 1651696329000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans/master/README.md",
@@ -251,10 +259,10 @@
         },
         {
             "id": "Google_Product_Sans_Font",
-            "last_update": 1653638338000,
+            "last_update": 1659577553000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font/main/module.prop",
-            "stars": 3,
+            "stars": 4,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font/archive/main.zip"
         },
         {
@@ -427,10 +435,10 @@
         },
         {
             "id": "NoStorageRestrict",
-            "last_update": 1659367222000,
+            "last_update": 1659570822000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/module.prop",
-            "stars": 48,
+            "stars": 49,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/archive/main.zip"
         },
         {
@@ -483,10 +491,10 @@
         },
         {
             "id": "riru-integrityfix",
-            "last_update": 1659371613000,
+            "last_update": 1659570794000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/riru-integrityfix/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/riru-integrityfix/master/module.prop",
-            "stars": 3,
+            "stars": 4,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/riru-integrityfix/archive/master.zip"
         },
         {
