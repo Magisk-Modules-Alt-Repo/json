@@ -235,7 +235,7 @@
         },
         {
             "id": "GMSDozeBlockFind",
-            "last_update": 1659574320000,
+            "last_update": 1659619751000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDozeBlockFind/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDozeBlockFind/main/module.prop",
             "stars": 0,
@@ -291,10 +291,10 @@
         },
         {
             "id": "huskydg_bootloopsaver",
-            "last_update": 1659466166000,
+            "last_update": 1659618739000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/module.prop",
-            "stars": 220,
+            "stars": 221,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/archive/master.zip"
         },
         {
