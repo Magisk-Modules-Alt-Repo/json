@@ -323,10 +323,10 @@
         },
         {
             "id": "lhroot",
-            "last_update": 1657565502000,
+            "last_update": 1659660826000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/lhroot/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/lhroot/master/module.prop",
-            "stars": 10,
+            "stars": 11,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/lhroot/archive/master.zip"
         },
         {
@@ -403,10 +403,10 @@
         },
         {
             "id": "microg_installer",
-            "last_update": 1659534423000,
+            "last_update": 1659660571000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/module.prop",
-            "stars": 21,
+            "stars": 22,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microg_installer/archive/master.zip"
         },
         {
