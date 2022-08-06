@@ -267,7 +267,7 @@
         },
         {
             "id": "heimdall-ndk",
-            "last_update": 1659705001000,
+            "last_update": 1659789636000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/heimdall-ndk/heimdall-v2.x/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/heimdall-ndk/heimdall-v2.x/module.prop",
             "stars": 1,
@@ -483,7 +483,7 @@
         },
         {
             "id": "qdl-ndk",
-            "last_update": 1659457850000,
+            "last_update": 1659789664000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/qdl-ndk/qdl-master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/qdl-ndk/qdl-master/module.prop",
             "stars": 0,
@@ -563,7 +563,7 @@
         },
         {
             "id": "upx-ndk",
-            "last_update": 1659457621000,
+            "last_update": 1659789698000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/upx-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/upx-ndk/master/module.prop",
             "stars": 0,
