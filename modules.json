@@ -59,10 +59,10 @@
         },
         {
             "id": "backup",
-            "last_update": 1656061314000,
+            "last_update": 1660075505000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/backup/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/backup/master/module.prop",
-            "stars": 23,
+            "stars": 24,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/backup/archive/master.zip"
         },
         {
@@ -267,10 +267,10 @@
         },
         {
             "id": "heimdall-ndk",
-            "last_update": 1659789636000,
+            "last_update": 1660075239000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/heimdall-ndk/heimdall-v2.x/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/heimdall-ndk/heimdall-v2.x/module.prop",
-            "stars": 1,
+            "stars": 2,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/heimdall-ndk/archive/heimdall-v2.x.zip"
         },
         {
