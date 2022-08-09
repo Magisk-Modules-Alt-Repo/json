@@ -227,7 +227,7 @@
         },
         {
             "id": "GMSDozeBlockFind",
-            "last_update": 1659620497000,
+            "last_update": 1660070999000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice/main/module.prop",
             "stars": 0,
@@ -435,10 +435,10 @@
         },
         {
             "id": "NoStorageRestrict",
-            "last_update": 1659570822000,
+            "last_update": 1660072841000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/module.prop",
-            "stars": 49,
+            "stars": 50,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/archive/main.zip"
         },
         {
