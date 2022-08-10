@@ -123,10 +123,10 @@
         },
         {
             "id": "Clash4Magisk",
-            "last_update": 1659456983000,
+            "last_update": 1660097109000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Clash4Magisk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Clash4Magisk/master/module.prop",
-            "stars": 0,
+            "stars": 1,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Clash4Magisk/archive/master.zip"
         },
         {
