@@ -539,10 +539,10 @@
         },
         {
             "id": "ToyBox-Ext",
-            "last_update": 1659488718000,
+            "last_update": 1660241130000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/main/module.prop",
-            "stars": 15,
+            "stars": 16,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/archive/main.zip"
         },
         {
@@ -587,7 +587,7 @@
         },
         {
             "id": "YAKT",
-            "last_update": 1659735454000,
+            "last_update": 1660241303000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/main/module.prop",
             "stars": 9,
