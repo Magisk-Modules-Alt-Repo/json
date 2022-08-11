@@ -251,10 +251,10 @@
         },
         {
             "id": "Google-Sans-Plus",
-            "last_update": 1658452686000,
+            "last_update": 1660248918000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus/master/module.prop",
-            "stars": 11,
+            "stars": 12,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus/archive/master.zip"
         },
         {
@@ -283,10 +283,10 @@
         },
         {
             "id": "hide_userdebug",
-            "last_update": 1658904519000,
+            "last_update": 1660249059000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/hide_userdebug/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/hide_userdebug/master/module.prop",
-            "stars": 7,
+            "stars": 8,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/hide_userdebug/archive/master.zip"
         },
         {
