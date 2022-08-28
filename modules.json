@@ -267,10 +267,10 @@
         },
         {
             "id": "heimdall-ndk",
-            "last_update": 1661659994000,
+            "last_update": 1661712065000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/heimdall-ndk/heimdall-v2.x/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/heimdall-ndk/heimdall-v2.x/module.prop",
-            "stars": 7,
+            "stars": 8,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/heimdall-ndk/archive/heimdall-v2.x.zip"
         },
         {
