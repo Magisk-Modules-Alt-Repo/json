@@ -267,7 +267,7 @@
         },
         {
             "id": "heimdall-ndk",
-            "last_update": 1661712065000,
+            "last_update": 1661734889000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/heimdall-ndk/heimdall-v2.x/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/heimdall-ndk/heimdall-v2.x/module.prop",
             "stars": 8,
@@ -291,10 +291,10 @@
         },
         {
             "id": "huskydg_bootloopsaver",
-            "last_update": 1661696115000,
+            "last_update": 1661734831000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/module.prop",
-            "stars": 238,
+            "stars": 239,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/archive/master.zip"
         },
         {
