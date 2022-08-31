@@ -474,6 +474,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_fonts/archive/master.zip"
         },
         {
+            "id": "pdx213_assistant_camera_remap",
+            "last_update": 1661980864000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap/main/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/pdx213_assistant_camera_remap/archive/main.zip"
+        },
+        {
             "id": "PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX",
             "last_update": 1647206634000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/main/README.md",
