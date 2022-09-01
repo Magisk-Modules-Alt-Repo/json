@@ -403,10 +403,10 @@
         },
         {
             "id": "microg_installer",
-            "last_update": 1661399466000,
+            "last_update": 1662063874000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/module.prop",
-            "stars": 23,
+            "stars": 24,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microg_installer/archive/master.zip"
         },
         {
