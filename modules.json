@@ -227,18 +227,18 @@
         },
         {
             "id": "GMSDozeBlockFind",
-            "last_update": 1660070999000,
+            "last_update": 1662175314000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice/main/module.prop",
-            "stars": 0,
+            "stars": 1,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice/archive/main.zip"
         },
         {
             "id": "GMSDoze",
-            "last_update": 1662047529000,
+            "last_update": 1662175306000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/main/module.prop",
-            "stars": 4,
+            "stars": 5,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze/archive/main.zip"
         },
         {
@@ -427,10 +427,10 @@
         },
         {
             "id": "NavBar_Resize_Miui10-11-12",
-            "last_update": 1659560784000,
+            "last_update": 1662175316000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI/main/module.prop",
-            "stars": 0,
+            "stars": 1,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI/archive/main.zip"
         },
         {
