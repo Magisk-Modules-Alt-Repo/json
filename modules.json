@@ -83,7 +83,7 @@
         },
         {
             "id": "BuiltIn-BusyBox",
-            "last_update": 1661513388000,
+            "last_update": 1662257696000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/module.prop",
             "stars": 14,
@@ -515,10 +515,10 @@
         },
         {
             "id": "selinux_mode",
-            "last_update": 1658954027000,
+            "last_update": 1662250684000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/selinux_mode/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/selinux_mode/main/module.prop",
-            "stars": 4,
+            "stars": 5,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/selinux_mode/archive/main.zip"
         },
         {
