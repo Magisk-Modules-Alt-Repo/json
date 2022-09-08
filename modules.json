@@ -283,10 +283,10 @@
         },
         {
             "id": "HideNavBar",
-            "last_update": 1662585971000,
+            "last_update": 1662634069000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/module.prop",
-            "stars": 35,
+            "stars": 36,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar/archive/master.zip"
         },
         {
