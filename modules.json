@@ -299,10 +299,10 @@
         },
         {
             "id": "huskydg_bootloopsaver",
-            "last_update": 1662805267000,
+            "last_update": 1662825895000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/master/module.prop",
-            "stars": 247,
+            "stars": 248,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_BootloopSaver/archive/master.zip"
         },
         {
@@ -411,10 +411,10 @@
         },
         {
             "id": "microg_installer",
-            "last_update": 1662063874000,
+            "last_update": 1662826187000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/module.prop",
-            "stars": 24,
+            "stars": 25,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microg_installer/archive/master.zip"
         },
         {
