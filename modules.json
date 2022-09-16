@@ -243,10 +243,10 @@
         },
         {
             "id": "GMSDoze",
-            "last_update": 1662975126000,
+            "last_update": 1663323367000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/main/module.prop",
-            "stars": 9,
+            "stars": 10,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze/archive/main.zip"
         },
         {
@@ -387,10 +387,10 @@
         },
         {
             "id": "magisk_overlayfs",
-            "last_update": 1663316681000,
+            "last_update": 1663320671000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/module.prop",
-            "stars": 39,
+            "stars": 40,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/archive/master.zip"
         },
         {
