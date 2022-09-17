@@ -187,10 +187,10 @@
         },
         {
             "id": "drc-remover",
-            "last_update": 1658414103000,
+            "last_update": 1663377990000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/module.prop",
-            "stars": 23,
+            "stars": 22,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover/archive/master.zip"
         },
         {
@@ -219,10 +219,10 @@
         },
         {
             "id": "gaming",
-            "last_update": 1663165374000,
+            "last_update": 1663377215000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gaming/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gaming/master/module.prop",
-            "stars": 42,
+            "stars": 43,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/gaming/archive/master.zip"
         },
         {
@@ -283,10 +283,10 @@
         },
         {
             "id": "HideNavBar",
-            "last_update": 1663185441000,
+            "last_update": 1663378979000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/module.prop",
-            "stars": 40,
+            "stars": 41,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar/archive/master.zip"
         },
         {
