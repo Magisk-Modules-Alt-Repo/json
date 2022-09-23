@@ -307,10 +307,10 @@
         },
         {
             "id": "huskydg_swapram",
-            "last_update": 1663796130000,
+            "last_update": 1663909640000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_SwapRAM/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HuskyDG_SwapRAM/master/module.prop",
-            "stars": 38,
+            "stars": 39,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HuskyDG_SwapRAM/archive/master.zip"
         },
         {
@@ -419,10 +419,10 @@
         },
         {
             "id": "MiXplorer",
-            "last_update": 1663810674000,
+            "last_update": 1663912215000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/module.prop",
-            "stars": 58,
+            "stars": 57,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/archive/main.zip"
         },
         {
@@ -475,10 +475,10 @@
         },
         {
             "id": "open_fonts",
-            "last_update": 1663785819000,
+            "last_update": 1663911011000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/module.prop",
-            "stars": 18,
+            "stars": 19,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_fonts/archive/master.zip"
         },
         {
