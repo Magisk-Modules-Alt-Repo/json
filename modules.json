@@ -203,7 +203,7 @@
         },
         {
             "id": "ezme-dex-space",
-            "last_update": 1664201134000,
+            "last_update": 1665082801000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-dex-space/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-dex-space/main/module.prop",
             "stars": 0,
@@ -595,7 +595,7 @@
         },
         {
             "id": "ttf-twemoji",
-            "last_update": 1649012912000,
+            "last_update": 1665082598000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ttf-twemoji/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ttf-twemoji/main/module.prop",
             "stars": 2,
