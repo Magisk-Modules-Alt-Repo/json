@@ -43,18 +43,18 @@
         },
         {
             "id": "audio-jitter-silencer",
-            "last_update": 1665234847000,
+            "last_update": 1665538452000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/module.prop",
-            "stars": 8,
+            "stars": 9,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/archive/main.zip"
         },
         {
             "id": "audio-misc-settings",
-            "last_update": 1665324854000,
+            "last_update": 1665538327000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
-            "stars": 52,
+            "stars": 53,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/archive/master.zip"
         },
         {
@@ -195,10 +195,10 @@
         },
         {
             "id": "Evolve-Evo",
-            "last_update": 1656068965000,
+            "last_update": 1665531558000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Evolve-Evo/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Evolve-Evo/master/module.prop",
-            "stars": 3,
+            "stars": 4,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Evolve-Evo/archive/master.zip"
         },
         {
@@ -251,10 +251,10 @@
         },
         {
             "id": "GMSDoze",
-            "last_update": 1665491089000,
+            "last_update": 1665543356000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/main/module.prop",
-            "stars": 18,
+            "stars": 17,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze/archive/main.zip"
         },
         {
@@ -291,10 +291,10 @@
         },
         {
             "id": "HideNavBar",
-            "last_update": 1665437557000,
+            "last_update": 1665533338000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/module.prop",
-            "stars": 49,
+            "stars": 50,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar/archive/master.zip"
         },
         {
@@ -323,10 +323,10 @@
         },
         {
             "id": "Lawnchair",
-            "last_update": 1665343244000,
+            "last_update": 1665545468000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Lawnchair/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Lawnchair/main/module.prop",
-            "stars": 57,
+            "stars": 58,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Lawnchair/archive/main.zip"
         },
         {
