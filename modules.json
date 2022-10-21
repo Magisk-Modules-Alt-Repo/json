@@ -331,10 +331,10 @@
         },
         {
             "id": "Lawnchair",
-            "last_update": 1666289670000,
+            "last_update": 1666356065000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Lawnchair/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Lawnchair/main/module.prop",
-            "stars": 59,
+            "stars": 58,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Lawnchair/archive/main.zip"
         },
         {
@@ -507,10 +507,10 @@
         },
         {
             "id": "open_fonts",
-            "last_update": 1665980500000,
+            "last_update": 1666356661000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/module.prop",
-            "stars": 22,
+            "stars": 21,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_fonts/archive/master.zip"
         },
         {
