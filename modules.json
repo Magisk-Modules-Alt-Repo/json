@@ -178,6 +178,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Detach/archive/master.zip"
         },
         {
+            "id": "djs",
+            "last_update": 1660442050000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/djs/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/djs/master/module.prop",
+            "stars": 3,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/djs/archive/master.zip"
+        },
+        {
             "id": "drc-remover",
             "last_update": 1667144443000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
