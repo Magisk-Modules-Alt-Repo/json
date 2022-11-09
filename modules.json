@@ -458,6 +458,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_MIUI/archive/main.zip"
         },
         {
+            "id": "node_on_android",
+            "last_update": 1667984437000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/node/archive/master.zip"
+        },
+        {
             "id": "NoStorageRestrict",
             "last_update": 1667843566000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/README.md",
@@ -552,6 +560,14 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/QS_Rectangulares/main/module.prop",
             "stars": 1,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/QS_Rectangulares/archive/main.zip"
+        },
+        {
+            "id": "RTKS",
+            "last_update": 1667984191000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/RTKS/beta/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/RTKS/beta/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/RTKS/archive/beta.zip"
         },
         {
             "id": "saturation",
