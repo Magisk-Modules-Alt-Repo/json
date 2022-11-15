@@ -51,10 +51,10 @@
         },
         {
             "id": "audio-misc-settings",
-            "last_update": 1667297500000,
+            "last_update": 1668488385000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
-            "stars": 58,
+            "stars": 59,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/archive/master.zip"
         },
         {
@@ -435,10 +435,10 @@
         },
         {
             "id": "MiXplorer",
-            "last_update": 1668144387000,
+            "last_update": 1668488184000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/module.prop",
-            "stars": 66,
+            "stars": 67,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/archive/main.zip"
         },
         {
