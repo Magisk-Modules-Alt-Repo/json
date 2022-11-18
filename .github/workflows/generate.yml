@@ -1,5 +1,6 @@
 name: Generate JSON
-on:
+on:bez1655/json
+
   push:
   workflow_dispatch:
   schedule:
