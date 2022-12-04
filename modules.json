@@ -170,6 +170,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/archive/main.zip"
         },
         {
+            "id": "data_isolation_support",
+            "last_update": 1670160371000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_isolation_support/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_isolation_support/main/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support/archive/main.zip"
+        },
+        {
             "id": "Detach",
             "last_update": 1663247172000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Detach/master/README.md",
