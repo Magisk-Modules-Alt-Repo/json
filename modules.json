@@ -419,10 +419,10 @@
         },
         {
             "id": "magisk_proc_monitor",
-            "last_update": 1670159959000,
+            "last_update": 1670407417000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/main/module.prop",
-            "stars": 0,
+            "stars": 1,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/archive/main.zip"
         },
         {
@@ -576,6 +576,14 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/qdl-ndk/qdl-master/module.prop",
             "stars": 0,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/qdl-ndk/archive/qdl-master.zip"
+        },
+        {
+            "id": "QS_Rectangulares",
+            "last_update": 1665254713000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/QS_Rectangulares/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/QS_Rectangulares/main/module.prop",
+            "stars": 1,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/QS_Rectangulares/archive/main.zip"
         },
         {
             "id": "RTKS",
