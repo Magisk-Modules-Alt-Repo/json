@@ -435,10 +435,10 @@
         },
         {
             "id": "microG-GApps",
-            "last_update": 1670160128000,
+            "last_update": 1670475860000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/module.prop",
-            "stars": 21,
+            "stars": 22,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps/archive/master.zip"
         },
         {
