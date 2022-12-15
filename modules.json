@@ -235,10 +235,10 @@
         },
         {
             "id": "Fdroid-Priv",
-            "last_update": 1669121738000,
+            "last_update": 1671139876000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Fdroid-Priv/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Fdroid-Priv/main/module.prop",
-            "stars": 0,
+            "stars": 1,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Fdroid-Priv/archive/main.zip"
         },
         {
