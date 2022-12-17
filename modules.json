@@ -266,6 +266,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/gboard-dict-3/archive/master.zip"
         },
         {
+            "id": "GlitchedCyberBoot",
+            "last_update": 1671281853000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot/main/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot/archive/main.zip"
+        },
+        {
             "id": "GMSDozeBlockFind",
             "last_update": 1663794792000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice/main/README.md",
@@ -680,6 +688,14 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/vintf-bypass/master/module.prop",
             "stars": 6,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass/archive/master.zip"
+        },
+        {
+            "id": "xhhttp",
+            "last_update": 1671281695000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/archive/master.zip"
         },
         {
             "id": "YAKT",
