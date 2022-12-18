@@ -235,10 +235,10 @@
         },
         {
             "id": "Fdroid-Priv",
-            "last_update": 1671139876000,
+            "last_update": 1671364875000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Fdroid-Priv/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Fdroid-Priv/main/module.prop",
-            "stars": 1,
+            "stars": 2,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Fdroid-Priv/archive/main.zip"
         },
         {
@@ -467,7 +467,7 @@
         },
         {
             "id": "mkshrc",
-            "last_update": 1671270689000,
+            "last_update": 1671364094000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/module.prop",
             "stars": 2,
@@ -547,10 +547,10 @@
         },
         {
             "id": "open_fonts",
-            "last_update": 1670934432000,
+            "last_update": 1671364447000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/module.prop",
-            "stars": 27,
+            "stars": 28,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_fonts/archive/master.zip"
         },
         {
