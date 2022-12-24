@@ -379,10 +379,10 @@
         },
         {
             "id": "magic-flash",
-            "last_update": 1670081152000,
+            "last_update": 1671864078000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/main/module.prop",
-            "stars": 97,
+            "stars": 98,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash/archive/main.zip"
         },
         {
@@ -627,10 +627,10 @@
         },
         {
             "id": "SystemlessDebloater",
-            "last_update": 1668749513000,
+            "last_update": 1671865882000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/main/module.prop",
-            "stars": 22,
+            "stars": 23,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/archive/main.zip"
         },
         {
