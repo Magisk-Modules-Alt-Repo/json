@@ -251,10 +251,10 @@
         },
         {
             "id": "gaming",
-            "last_update": 1671580864000,
+            "last_update": 1672014375000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gaming/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gaming/master/module.prop",
-            "stars": 47,
+            "stars": 48,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/gaming/archive/master.zip"
         },
         {
@@ -451,10 +451,10 @@
         },
         {
             "id": "microg_installer",
-            "last_update": 1671814548000,
+            "last_update": 1672017685000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/module.prop",
-            "stars": 37,
+            "stars": 36,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microg_installer/archive/master.zip"
         },
         {
