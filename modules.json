@@ -26,6 +26,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/2_MARS_SOM_OVERLAY-GEAR_SECOND/archive/main.zip"
         },
         {
+            "id": "MARS",
+            "last_update": 1672427161000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/3_MARS_SOM_SYSTEM-GEAR_THIRD-/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/3_MARS_SOM_SYSTEM-GEAR_THIRD-/main/module.prop",
+            "stars": 2,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/3_MARS_SOM_SYSTEM-GEAR_THIRD-/archive/main.zip"
+        },
+        {
             "id": "acc",
             "last_update": 1658687656000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/acc/master/README.md",
@@ -59,10 +67,10 @@
         },
         {
             "id": "backup",
-            "last_update": 1666724812000,
+            "last_update": 1672425788000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/backup/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/backup/master/module.prop",
-            "stars": 29,
+            "stars": 28,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/backup/archive/master.zip"
         },
         {
@@ -147,10 +155,10 @@
         },
         {
             "id": "cmdpatch",
-            "last_update": 1649829980000,
+            "last_update": 1672424757000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/cmdpatch/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/cmdpatch/master/module.prop",
-            "stars": 10,
+            "stars": 9,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/cmdpatch/archive/master.zip"
         },
         {
@@ -195,10 +203,10 @@
         },
         {
             "id": "drc-remover",
-            "last_update": 1670776520000,
+            "last_update": 1672424755000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/module.prop",
-            "stars": 28,
+            "stars": 27,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover/archive/master.zip"
         },
         {
@@ -434,14 +442,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/archive/main.zip"
         },
         {
-            "id": "MARS",
-            "last_update": 1655383375000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MARS/main/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MARS/main/module.prop",
-            "stars": 2,
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MARS/archive/main.zip"
-        },
-        {
             "id": "microG-GApps",
             "last_update": 1671962706000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/README.md",
@@ -459,10 +459,10 @@
         },
         {
             "id": "MiXplorer",
-            "last_update": 1672056019000,
+            "last_update": 1672424759000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/module.prop",
-            "stars": 81,
+            "stars": 80,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/archive/main.zip"
         },
         {
@@ -707,10 +707,10 @@
         },
         {
             "id": "zram-swap-manager",
-            "last_update": 1670842170000,
+            "last_update": 1672425265000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/zram-swap-manager/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/zram-swap-manager/master/module.prop",
-            "stars": 13,
+            "stars": 12,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/zram-swap-manager/archive/master.zip"
         }
     ],
