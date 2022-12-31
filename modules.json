@@ -227,7 +227,7 @@
         },
         {
             "id": "ezme-nodebug",
-            "last_update": 1670778938000,
+            "last_update": 1672515099000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-nodebug/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-nodebug/main/module.prop",
             "stars": 3,
@@ -371,11 +371,19 @@
         },
         {
             "id": "Luz-Nocturna_Modded",
-            "last_update": 1665075566000,
+            "last_update": 1672515053000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Luz-Nocturna_Modded/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Luz-Nocturna_Modded/main/module.prop",
-            "stars": 0,
+            "stars": 1,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Luz-Nocturna_Modded/archive/main.zip"
+        },
+        {
+            "id": "MacRandomizationEnabler",
+            "last_update": 1670957383000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/master/module.prop",
+            "stars": 6,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/archive/master.zip"
         },
         {
             "id": "magic-flash",
