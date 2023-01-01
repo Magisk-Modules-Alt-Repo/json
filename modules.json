@@ -387,10 +387,10 @@
         },
         {
             "id": "magic-flash",
-            "last_update": 1672073422000,
+            "last_update": 1672580103000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/main/module.prop",
-            "stars": 99,
+            "stars": 98,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash/archive/main.zip"
         },
         {
@@ -635,10 +635,10 @@
         },
         {
             "id": "systemui-bootloop",
-            "last_update": 1672096634000,
+            "last_update": 1672580113000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemui-bootloop/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemui-bootloop/main/module.prop",
-            "stars": 11,
+            "stars": 10,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/systemui-bootloop/archive/main.zip"
         },
         {
