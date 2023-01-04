@@ -435,7 +435,7 @@
         },
         {
             "id": "magisk_proc_monitor",
-            "last_update": 1672627882000,
+            "last_update": 1672850555000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/main/module.prop",
             "stars": 3,
@@ -459,10 +459,10 @@
         },
         {
             "id": "MiXplorer",
-            "last_update": 1672704430000,
+            "last_update": 1672850731000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/module.prop",
-            "stars": 81,
+            "stars": 82,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/archive/main.zip"
         },
         {
@@ -499,10 +499,10 @@
         },
         {
             "id": "NoStorageRestrict",
-            "last_update": 1672714738000,
+            "last_update": 1672850774000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/module.prop",
-            "stars": 80,
+            "stars": 81,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/archive/main.zip"
         },
         {
