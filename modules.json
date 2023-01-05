@@ -426,14 +426,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font/archive/master.zip"
         },
         {
-            "id": "magisk_overlayfs",
-            "last_update": 1672423741000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/master/module.prop",
-            "stars": 47,
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/archive/master.zip"
-        },
-        {
             "id": "magisk_proc_monitor",
             "last_update": 1672850555000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_proc_monitor/main/README.md",
