@@ -3,10 +3,10 @@
     "modules": [
         {
             "id": "0_MARS_SOM_CLEANER-GEAR_ZERO",
-            "last_update": 1672442193000,
+            "last_update": 1673042580000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/0_MARS_SOM_CLEANER-GEAR_ZERO/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/0_MARS_SOM_CLEANER-GEAR_ZERO/main/module.prop",
-            "stars": 1,
+            "stars": 2,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/0_MARS_SOM_CLEANER-GEAR_ZERO/archive/main.zip"
         },
         {
