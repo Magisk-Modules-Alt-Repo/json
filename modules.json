@@ -259,10 +259,10 @@
         },
         {
             "id": "frozen_magisk_app",
-            "last_update": 1673182414000,
+            "last_update": 1673263681000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/main/module.prop",
-            "stars": 0,
+            "stars": 1,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/archive/main.zip"
         },
         {
@@ -715,10 +715,10 @@
         },
         {
             "id": "ytrevancedinject",
-            "last_update": 1673217114000,
+            "last_update": 1673265082000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytrevancedinject/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytrevancedinject/main/module.prop",
-            "stars": 6,
+            "stars": 7,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject/archive/main.zip"
         },
         {
