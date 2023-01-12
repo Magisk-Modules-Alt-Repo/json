@@ -498,6 +498,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/node/archive/master.zip"
         },
         {
+            "id": "NoProcStatRestriction",
+            "last_update": 1673516941000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/master/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NoProcStatRestriction/archive/master.zip"
+        },
+        {
             "id": "NoStorageRestrict",
             "last_update": 1673489887000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/README.md",
