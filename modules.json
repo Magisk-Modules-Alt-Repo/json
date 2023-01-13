@@ -571,10 +571,10 @@
         },
         {
             "id": "open_webview",
-            "last_update": 1672641840000,
+            "last_update": 1673569844000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/module.prop",
-            "stars": 21,
+            "stars": 23,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip"
         },
         {
@@ -731,10 +731,10 @@
         },
         {
             "id": "ytrevancedinject",
-            "last_update": 1673265082000,
+            "last_update": 1673571703000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytrevancedinject/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytrevancedinject/main/module.prop",
-            "stars": 7,
+            "stars": 8,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject/archive/main.zip"
         },
         {
