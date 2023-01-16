@@ -186,6 +186,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/archive/main.zip"
         },
         {
+            "id": "DalvikHyperthreading",
+            "last_update": 1673853797000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/main/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/archive/main.zip"
+        },
+        {
             "id": "data_isolation_support",
             "last_update": 1673438422000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_isolation_support/main/README.md",
@@ -347,10 +355,10 @@
         },
         {
             "id": "HideNavBar",
-            "last_update": 1673525775000,
+            "last_update": 1673855296000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/module.prop",
-            "stars": 103,
+            "stars": 104,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar/archive/master.zip"
         },
         {
@@ -562,6 +570,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/OnePlus6Oxygen_22.J.62_debloater/archive/main.zip"
         },
         {
+            "id": "oneplusdotfix",
+            "last_update": 1673854056000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplusdotfix/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplusdotfix/master/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/oneplusdotfix/archive/master.zip"
+        },
+        {
             "id": "open_fonts",
             "last_update": 1673815459000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/README.md",
@@ -680,6 +696,14 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ttf-twemoji/main/module.prop",
             "stars": 3,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji/archive/main.zip"
+        },
+        {
+            "id": "unityfix",
+            "last_update": 1673853608000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/unityfix/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/unityfix/main/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/unityfix/archive/main.zip"
         },
         {
             "id": "upx-ndk",
