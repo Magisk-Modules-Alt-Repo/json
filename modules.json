@@ -35,10 +35,10 @@
         },
         {
             "id": "acc",
-            "last_update": 1658687656000,
+            "last_update": 1673953750000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/acc/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/acc/master/module.prop",
-            "stars": 4,
+            "stars": 5,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/acc/archive/master.zip"
         },
         {
@@ -91,10 +91,10 @@
         },
         {
             "id": "BuiltIn-BusyBox",
-            "last_update": 1673814598000,
+            "last_update": 1673953786000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/module.prop",
-            "stars": 21,
+            "stars": 22,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/archive/main.zip"
         },
         {
@@ -171,10 +171,10 @@
         },
         {
             "id": "custom-certificate-authorities",
-            "last_update": 1670828803000,
+            "last_update": 1673953813000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/module.prop",
-            "stars": 21,
+            "stars": 22,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/archive/master.zip"
         },
         {
@@ -187,10 +187,10 @@
         },
         {
             "id": "DalvikHyperthreading",
-            "last_update": 1673879578000,
+            "last_update": 1673952506000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/main/module.prop",
-            "stars": 1,
+            "stars": 2,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/archive/main.zip"
         },
         {
@@ -243,10 +243,10 @@
         },
         {
             "id": "ezme-nodebug",
-            "last_update": 1672515099000,
+            "last_update": 1673953559000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-nodebug/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-nodebug/main/module.prop",
-            "stars": 3,
+            "stars": 4,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug/archive/main.zip"
         },
         {
@@ -259,10 +259,10 @@
         },
         {
             "id": "Fdroid-Priv",
-            "last_update": 1671364875000,
+            "last_update": 1673953436000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Fdroid-Priv/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Fdroid-Priv/main/module.prop",
-            "stars": 2,
+            "stars": 3,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Fdroid-Priv/archive/main.zip"
         },
         {
@@ -299,10 +299,10 @@
         },
         {
             "id": "GlitchedCyberBoot",
-            "last_update": 1672765669000,
+            "last_update": 1673953497000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot/main/module.prop",
-            "stars": 1,
+            "stars": 2,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot/archive/main.zip"
         },
         {
@@ -363,10 +363,10 @@
         },
         {
             "id": "hide_userdebug",
-            "last_update": 1673884629000,
+            "last_update": 1673953742000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/hide_userdebug/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/hide_userdebug/master/module.prop",
-            "stars": 16,
+            "stars": 17,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/hide_userdebug/archive/master.zip"
         },
         {
@@ -379,10 +379,10 @@
         },
         {
             "id": "Lawnchair",
-            "last_update": 1673894569000,
+            "last_update": 1673953625000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Lawnchair/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Lawnchair/main/module.prop",
-            "stars": 70,
+            "stars": 71,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Lawnchair/archive/main.zip"
         },
         {
@@ -403,10 +403,10 @@
         },
         {
             "id": "MacRandomizationEnabler",
-            "last_update": 1670957383000,
+            "last_update": 1673953896000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/master/module.prop",
-            "stars": 6,
+            "stars": 7,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MacRandomizationEnabler/archive/master.zip"
         },
         {
@@ -523,10 +523,10 @@
         },
         {
             "id": "NoStorageRestrict",
-            "last_update": 1673814330000,
+            "last_update": 1673953594000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/module.prop",
-            "stars": 83,
+            "stars": 84,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/archive/main.zip"
         },
         {
@@ -627,10 +627,10 @@
         },
         {
             "id": "RTKS",
-            "last_update": 1668453240000,
+            "last_update": 1673953529000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/RTKS/stable/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/RTKS/stable/module.prop",
-            "stars": 2,
+            "stars": 3,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/RTKS/archive/stable.zip"
         },
         {
@@ -667,18 +667,18 @@
         },
         {
             "id": "systemui-bootloop",
-            "last_update": 1672580113000,
+            "last_update": 1673953823000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemui-bootloop/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemui-bootloop/main/module.prop",
-            "stars": 10,
+            "stars": 11,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/systemui-bootloop/archive/main.zip"
         },
         {
             "id": "ToyBox-Ext",
-            "last_update": 1673657147000,
+            "last_update": 1673953761000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/main/module.prop",
-            "stars": 21,
+            "stars": 22,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/archive/main.zip"
         },
         {
@@ -739,10 +739,10 @@
         },
         {
             "id": "YAKT",
-            "last_update": 1673099136000,
+            "last_update": 1673953580000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/main/module.prop",
-            "stars": 14,
+            "stars": 15,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/YAKT/archive/main.zip"
         },
         {
@@ -763,10 +763,10 @@
         },
         {
             "id": "zram-swap-manager",
-            "last_update": 1672425265000,
+            "last_update": 1673953837000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/zram-swap-manager/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/zram-swap-manager/master/module.prop",
-            "stars": 12,
+            "stars": 13,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/zram-swap-manager/archive/master.zip"
         }
     ],
