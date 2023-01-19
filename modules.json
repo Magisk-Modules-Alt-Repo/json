@@ -690,6 +690,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/archive/master.zip"
         },
         {
+            "id": "ttf-twemoji",
+            "last_update": 1667344083000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ttf-twemoji/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ttf-twemoji/main/module.prop",
+            "stars": 3,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ttf-twemoji/archive/main.zip"
+        },
+        {
             "id": "unityfix",
             "last_update": 1673879511000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/unityfix/main/README.md",
