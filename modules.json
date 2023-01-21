@@ -554,6 +554,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-9-9pro-camera-unlocker/archive/master.zip"
         },
         {
+            "id": "OnePlus6Oxygen_22.J.62_debloater",
+            "last_update": 1661263266000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/OnePlus6Oxygen_22.J.62_debloater/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/OnePlus6Oxygen_22.J.62_debloater/main/module.prop",
+            "stars": 1,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/OnePlus6Oxygen_22.J.62_debloater/archive/main.zip"
+        },
+        {
             "id": "oneplusdotfix",
             "last_update": 1673854056000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplusdotfix/master/README.md",
