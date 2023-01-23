@@ -355,10 +355,10 @@
         },
         {
             "id": "HideNavBar",
-            "last_update": 1674476697000,
+            "last_update": 1674493399000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/module.prop",
-            "stars": 107,
+            "stars": 108,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar/archive/master.zip"
         },
         {
@@ -659,10 +659,10 @@
         },
         {
             "id": "SystemlessDebloater",
-            "last_update": 1674005463000,
+            "last_update": 1674493657000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/main/module.prop",
-            "stars": 23,
+            "stars": 24,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/archive/main.zip"
         },
         {
