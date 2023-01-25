@@ -323,26 +323,26 @@
         },
         {
             "id": "Google-Sans",
-            "last_update": 1673814451000,
+            "last_update": 1674615442000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans/master/module.prop",
-            "stars": 3,
+            "stars": 4,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans/archive/master.zip"
         },
         {
             "id": "Google-Sans-Plus",
-            "last_update": 1660248918000,
+            "last_update": 1674615382000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus/master/module.prop",
-            "stars": 12,
+            "stars": 13,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus/archive/master.zip"
         },
         {
             "id": "Google_Product_Sans_Font",
-            "last_update": 1674586208000,
+            "last_update": 1674615484000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font/main/module.prop",
-            "stars": 8,
+            "stars": 9,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font/archive/main.zip"
         },
         {
