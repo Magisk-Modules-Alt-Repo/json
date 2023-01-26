@@ -283,7 +283,7 @@
         },
         {
             "id": "gaming",
-            "last_update": 1673881544000,
+            "last_update": 1674689225000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gaming/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gaming/master/module.prop",
             "stars": 50,
@@ -643,10 +643,10 @@
         },
         {
             "id": "sensitive_props",
-            "last_update": 1674670709000,
+            "last_update": 1674692358000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/module.prop",
-            "stars": 20,
+            "stars": 21,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/archive/master.zip"
         },
         {
