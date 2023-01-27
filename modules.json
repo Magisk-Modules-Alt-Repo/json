@@ -91,7 +91,7 @@
         },
         {
             "id": "BuiltIn-BusyBox",
-            "last_update": 1673953786000,
+            "last_update": 1674843427000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/module.prop",
             "stars": 22,
@@ -283,10 +283,10 @@
         },
         {
             "id": "gaming",
-            "last_update": 1674689225000,
+            "last_update": 1674842820000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gaming/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/gaming/master/module.prop",
-            "stars": 50,
+            "stars": 51,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/gaming/archive/master.zip"
         },
         {
