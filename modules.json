@@ -59,10 +59,10 @@
         },
         {
             "id": "audio-misc-settings",
-            "last_update": 1675183449000,
+            "last_update": 1675193198000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
-            "stars": 64,
+            "stars": 63,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/archive/master.zip"
         },
         {
@@ -403,10 +403,10 @@
         },
         {
             "id": "magic-flash",
-            "last_update": 1675151934000,
+            "last_update": 1675194309000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/main/module.prop",
-            "stars": 99,
+            "stars": 98,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash/archive/main.zip"
         },
         {
@@ -451,10 +451,10 @@
         },
         {
             "id": "microG-GApps",
-            "last_update": 1673261226000,
+            "last_update": 1675193413000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/module.prop",
-            "stars": 33,
+            "stars": 32,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps/archive/master.zip"
         },
         {
