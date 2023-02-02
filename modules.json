@@ -242,6 +242,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ezme-dex-space/archive/main.zip"
         },
         {
+            "id": "ezme-nodebug",
+            "last_update": 1675007363000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-nodebug/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-nodebug/main/module.prop",
+            "stars": 5,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug/archive/main.zip"
+        },
+        {
             "id": "vr25.fbind",
             "last_update": 1666375539000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/fbind/master/README.md",
@@ -472,6 +480,14 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/module.prop",
             "stars": 6,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/archive/master.zip"
+        },
+        {
+            "id": "NavBar_Resize",
+            "last_update": 1659560818000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP/main/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NavBar_Resize_AOSP/archive/main.zip"
         },
         {
             "id": "NavBar_Resize_Miui10-11-12-13",
