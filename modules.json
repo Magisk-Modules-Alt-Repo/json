@@ -547,18 +547,18 @@
         },
         {
             "id": "oneplus-8series-9r-camera-unlocker",
-            "last_update": 1671736579000,
+            "last_update": 1675441060000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker/master/module.prop",
-            "stars": 5,
+            "stars": 6,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-8series-9r-camera-unlocker/archive/master.zip"
         },
         {
             "id": "oneplus-9-9pro-camera-unlocker",
-            "last_update": 1669551594000,
+            "last_update": 1675441063000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplus-9-9pro-camera-unlocker/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplus-9-9pro-camera-unlocker/master/module.prop",
-            "stars": 1,
+            "stars": 2,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-9-9pro-camera-unlocker/archive/master.zip"
         },
         {
@@ -587,10 +587,10 @@
         },
         {
             "id": "open_webview",
-            "last_update": 1675196886000,
+            "last_update": 1675440687000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/module.prop",
-            "stars": 24,
+            "stars": 25,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip"
         },
         {
