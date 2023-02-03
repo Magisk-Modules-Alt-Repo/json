@@ -355,10 +355,10 @@
         },
         {
             "id": "HideNavBar",
-            "last_update": 1675343427000,
+            "last_update": 1675456954000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/module.prop",
-            "stars": 114,
+            "stars": 115,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar/archive/master.zip"
         },
         {
@@ -443,7 +443,7 @@
         },
         {
             "id": "magisk_overlayfs",
-            "last_update": 1675398262000,
+            "last_update": 1675458673000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/module.prop",
             "stars": 0,
@@ -507,7 +507,7 @@
         },
         {
             "id": "node_on_android",
-            "last_update": 1675300483000,
+            "last_update": 1675456184000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/module.prop",
             "stars": 8,
