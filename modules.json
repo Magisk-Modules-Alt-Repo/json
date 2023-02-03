@@ -51,10 +51,10 @@
         },
         {
             "id": "audio-jitter-silencer",
-            "last_update": 1671897034000,
+            "last_update": 1675414928000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/module.prop",
-            "stars": 19,
+            "stars": 20,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/archive/main.zip"
         },
         {
@@ -163,10 +163,10 @@
         },
         {
             "id": "com.omergoktas.Foundation",
-            "last_update": 1675236881000,
+            "last_update": 1675415360000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/com.omergoktas.Foundation/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/com.omergoktas.Foundation/master/module.prop",
-            "stars": 2,
+            "stars": 3,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/com.omergoktas.Foundation/archive/master.zip"
         },
         {
