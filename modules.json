@@ -59,7 +59,7 @@
         },
         {
             "id": "audio-misc-settings",
-            "last_update": 1675351297000,
+            "last_update": 1675498190000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
             "stars": 64,
@@ -683,10 +683,10 @@
         },
         {
             "id": "ToyBox-Ext",
-            "last_update": 1673953761000,
+            "last_update": 1675498315000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/main/module.prop",
-            "stars": 22,
+            "stars": 23,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/archive/main.zip"
         },
         {
