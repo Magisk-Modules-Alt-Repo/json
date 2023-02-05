@@ -59,10 +59,10 @@
         },
         {
             "id": "audio-misc-settings",
-            "last_update": 1675498190000,
+            "last_update": 1675559946000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
-            "stars": 64,
+            "stars": 65,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/archive/master.zip"
         },
         {
@@ -219,10 +219,10 @@
         },
         {
             "id": "drc-remover",
-            "last_update": 1674938809000,
+            "last_update": 1675559958000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/module.prop",
-            "stars": 29,
+            "stars": 30,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover/archive/master.zip"
         },
         {
@@ -467,10 +467,10 @@
         },
         {
             "id": "MiXplorer",
-            "last_update": 1675486355000,
+            "last_update": 1675555058000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/module.prop",
-            "stars": 99,
+            "stars": 100,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/archive/main.zip"
         },
         {
@@ -515,10 +515,10 @@
         },
         {
             "id": "NoStorageRestrict",
-            "last_update": 1675375771000,
+            "last_update": 1675559955000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/module.prop",
-            "stars": 91,
+            "stars": 93,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/archive/main.zip"
         },
         {
@@ -699,10 +699,10 @@
         },
         {
             "id": "unityfix",
-            "last_update": 1673879511000,
+            "last_update": 1675559963000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/unityfix/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/unityfix/main/module.prop",
-            "stars": 1,
+            "stars": 2,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/unityfix/archive/main.zip"
         },
         {
@@ -755,10 +755,10 @@
         },
         {
             "id": "ytrevancedinject",
-            "last_update": 1675499444000,
+            "last_update": 1675557814000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytrevancedinject/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytrevancedinject/main/module.prop",
-            "stars": 14,
+            "stars": 15,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject/archive/main.zip"
         },
         {
