@@ -483,7 +483,7 @@
         },
         {
             "id": "NoStorageRestrict",
-            "last_update": 1675700481000,
+            "last_update": 1675949380000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/module.prop",
             "stars": 96,
