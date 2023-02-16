@@ -411,10 +411,10 @@
         },
         {
             "id": "magiskhide",
-            "last_update": 1676540107000,
+            "last_update": 1676545496000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHide/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHide/main/module.prop",
-            "stars": 2,
+            "stars": 4,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MagiskHide/archive/main.zip"
         },
         {
@@ -731,10 +731,10 @@
         },
         {
             "id": "ytrevancedinject",
-            "last_update": 1676021022000,
+            "last_update": 1676544590000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytrevancedinject/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytrevancedinject/main/module.prop",
-            "stars": 16,
+            "stars": 15,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject/archive/main.zip"
         },
         {
