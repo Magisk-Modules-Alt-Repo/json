@@ -154,6 +154,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/archive/main.zip"
         },
         {
+            "id": "DalvikHyperthreading",
+            "last_update": 1675632887000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/main/module.prop",
+            "stars": 5,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/archive/main.zip"
+        },
+        {
             "id": "data_isolation_support",
             "last_update": 1675932997000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_isolation_support/main/README.md",
@@ -576,6 +584,14 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/qdl-ndk/qdl-master/module.prop",
             "stars": 0,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/qdl-ndk/archive/qdl-master.zip"
+        },
+        {
+            "id": "QS_Rectangulares",
+            "last_update": 1665254713000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/QS_Rectangulares/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/QS_Rectangulares/main/module.prop",
+            "stars": 1,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/QS_Rectangulares/archive/main.zip"
         },
         {
             "id": "RTKS",
