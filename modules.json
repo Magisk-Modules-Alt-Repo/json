@@ -475,10 +475,10 @@
         },
         {
             "id": "node_on_android",
-            "last_update": 1677553680000,
+            "last_update": 1678319534000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/module.prop",
-            "stars": 12,
+            "stars": 13,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/node/archive/master.zip"
         },
         {
@@ -491,10 +491,10 @@
         },
         {
             "id": "NoStorageRestrict",
-            "last_update": 1678171892000,
+            "last_update": 1678318186000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/module.prop",
-            "stars": 100,
+            "stars": 99,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/archive/main.zip"
         },
         {
@@ -635,10 +635,10 @@
         },
         {
             "id": "SystemlessDebloater",
-            "last_update": 1678060824000,
+            "last_update": 1678324926000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/main/module.prop",
-            "stars": 28,
+            "stars": 29,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/archive/main.zip"
         },
         {
