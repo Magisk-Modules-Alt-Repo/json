@@ -627,10 +627,10 @@
         },
         {
             "id": "sensitive_props",
-            "last_update": 1678605480000,
+            "last_update": 1678651223000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/module.prop",
-            "stars": 30,
+            "stars": 31,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/archive/master.zip"
         },
         {
