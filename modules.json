@@ -10,6 +10,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/acc/archive/master.zip"
         },
         {
+            "id": "AdGuardDNS4Magisk",
+            "last_update": 1678880174000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/main/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/archive/main.zip"
+        },
+        {
             "id": "AFWall-Boot-AntiLeak",
             "last_update": 1674736021000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AFWall-Boot-AntiLeak/main/README.md",
@@ -640,6 +648,14 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade/main/module.prop",
             "stars": 2,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade/archive/main.zip"
+        },
+        {
+            "id": "supl-replacer",
+            "last_update": 1678882289000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/supl-replacer/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/supl-replacer/master/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/supl-replacer/archive/master.zip"
         },
         {
             "id": "SystemlessDebloater",
