@@ -179,10 +179,10 @@
         },
         {
             "id": "data_backup",
-            "last_update": 1678602787000,
+            "last_update": 1678908840000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/main/module.prop",
-            "stars": 4,
+            "stars": 5,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/data_backup/archive/main.zip"
         },
         {
@@ -459,10 +459,10 @@
         },
         {
             "id": "microg_installer",
-            "last_update": 1677898332000,
+            "last_update": 1678908322000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/module.prop",
-            "stars": 41,
+            "stars": 42,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microg_installer/archive/master.zip"
         },
         {
@@ -659,10 +659,10 @@
         },
         {
             "id": "supl-replacer",
-            "last_update": 1678882289000,
+            "last_update": 1678908282000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/supl-replacer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/supl-replacer/master/module.prop",
-            "stars": 0,
+            "stars": 1,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/supl-replacer/archive/master.zip"
         },
         {
