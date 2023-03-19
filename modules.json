@@ -435,10 +435,10 @@
         },
         {
             "id": "magiskhide",
-            "last_update": 1678575888000,
+            "last_update": 1679186371000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHide/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHide/main/module.prop",
-            "stars": 10,
+            "stars": 11,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MagiskHide/archive/main.zip"
         },
         {
@@ -475,10 +475,10 @@
         },
         {
             "id": "mkshrc",
-            "last_update": 1679036258000,
+            "last_update": 1679186666000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/module.prop",
-            "stars": 9,
+            "stars": 10,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/archive/master.zip"
         },
         {
