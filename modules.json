@@ -179,10 +179,10 @@
         },
         {
             "id": "data_backup",
-            "last_update": 1678940265000,
+            "last_update": 1679581434000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/main/module.prop",
-            "stars": 6,
+            "stars": 7,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/data_backup/archive/main.zip"
         },
         {
