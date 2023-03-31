@@ -19,10 +19,10 @@
         },
         {
             "id": "AdGuardDNS4Magisk-IPv6",
-            "last_update": 1679943554000,
+            "last_update": 1680281458000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6/main/module.prop",
-            "stars": 2,
+            "stars": 3,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6/archive/main.zip"
         },
         {
@@ -35,10 +35,10 @@
         },
         {
             "id": "audio-jitter-silencer",
-            "last_update": 1679437401000,
+            "last_update": 1680282545000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/module.prop",
-            "stars": 22,
+            "stars": 21,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/archive/main.zip"
         },
         {
@@ -371,10 +371,10 @@
         },
         {
             "id": "lhroot",
-            "last_update": 1678073498000,
+            "last_update": 1680282664000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/lhroot/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/lhroot/master/module.prop",
-            "stars": 20,
+            "stars": 21,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/lhroot/archive/master.zip"
         },
         {
@@ -395,10 +395,10 @@
         },
         {
             "id": "magic-flash",
-            "last_update": 1679032588000,
+            "last_update": 1680281342000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/main/module.prop",
-            "stars": 102,
+            "stars": 103,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash/archive/main.zip"
         },
         {
@@ -435,10 +435,10 @@
         },
         {
             "id": "magiskhide",
-            "last_update": 1680037462000,
+            "last_update": 1680282624000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHide/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHide/main/module.prop",
-            "stars": 11,
+            "stars": 12,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MagiskHide/archive/main.zip"
         },
         {
@@ -459,10 +459,10 @@
         },
         {
             "id": "microg_installer",
-            "last_update": 1678908322000,
+            "last_update": 1680282684000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/module.prop",
-            "stars": 42,
+            "stars": 43,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microg_installer/archive/master.zip"
         },
         {
@@ -579,10 +579,10 @@
         },
         {
             "id": "open_webview",
-            "last_update": 1680050638000,
+            "last_update": 1680281392000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/module.prop",
-            "stars": 32,
+            "stars": 33,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip"
         },
         {
