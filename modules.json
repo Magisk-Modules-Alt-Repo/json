@@ -459,7 +459,7 @@
         },
         {
             "id": "microg_installer",
-            "last_update": 1680282684000,
+            "last_update": 1680867902000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/module.prop",
             "stars": 43,
@@ -643,10 +643,10 @@
         },
         {
             "id": "sensitive_props",
-            "last_update": 1680825160000,
+            "last_update": 1680868530000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/module.prop",
-            "stars": 36,
+            "stars": 37,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/archive/master.zip"
         },
         {
