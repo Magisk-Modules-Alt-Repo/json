@@ -259,10 +259,10 @@
         },
         {
             "id": "FOSSAPPS",
-            "last_update": 1674680834000,
+            "last_update": 1681257243000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FOSSAPPS/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FOSSAPPS/main/module.prop",
-            "stars": 11,
+            "stars": 12,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/FOSSAPPS/archive/main.zip"
         },
         {
@@ -651,10 +651,10 @@
         },
         {
             "id": "sensitive_props",
-            "last_update": 1680930363000,
+            "last_update": 1681261404000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/module.prop",
-            "stars": 39,
+            "stars": 40,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/archive/master.zip"
         },
         {
