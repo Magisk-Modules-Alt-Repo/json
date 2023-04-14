@@ -779,7 +779,7 @@
         },
         {
             "id": "zram-swap-manager",
-            "last_update": 1680871112000,
+            "last_update": 1681432270000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/zram-swap-manager/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/zram-swap-manager/master/module.prop",
             "stars": 14,
