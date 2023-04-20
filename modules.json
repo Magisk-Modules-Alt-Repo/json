@@ -299,10 +299,10 @@
         },
         {
             "id": "GMSDozeBlockFind",
-            "last_update": 1681737217000,
+            "last_update": 1682005485000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice/main/module.prop",
-            "stars": 6,
+            "stars": 7,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice/archive/main.zip"
         },
         {
