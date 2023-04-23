@@ -587,7 +587,7 @@
         },
         {
             "id": "open_fonts",
-            "last_update": 1682099707000,
+            "last_update": 1682264297000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/module.prop",
             "stars": 38,
@@ -595,7 +595,7 @@
         },
         {
             "id": "open_webview",
-            "last_update": 1682191733000,
+            "last_update": 1682264308000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/module.prop",
             "stars": 38,
