@@ -403,10 +403,10 @@
         },
         {
             "id": "magic-mount-extend",
-            "last_update": 1682222218000,
+            "last_update": 1682670351000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-mount-extend/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-mount-extend/main/module.prop",
-            "stars": 2,
+            "stars": 3,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magic-mount-extend/archive/main.zip"
         },
         {
@@ -451,10 +451,10 @@
         },
         {
             "id": "magisk_overlayfs",
-            "last_update": 1681666287000,
+            "last_update": 1682670354000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/module.prop",
-            "stars": 2,
+            "stars": 3,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/archive/main.zip"
         },
         {
