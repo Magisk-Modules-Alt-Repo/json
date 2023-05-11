@@ -195,10 +195,10 @@
         },
         {
             "id": "Detach",
-            "last_update": 1663247172000,
+            "last_update": 1683796768000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Detach/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Detach/master/module.prop",
-            "stars": 4,
+            "stars": 5,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Detach/archive/master.zip"
         },
         {
@@ -291,10 +291,10 @@
         },
         {
             "id": "GlitchedCyberBoot",
-            "last_update": 1681343317000,
+            "last_update": 1683796850000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot/main/module.prop",
-            "stars": 3,
+            "stars": 4,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GlitchedCyberBoot/archive/main.zip"
         },
         {
@@ -379,10 +379,10 @@
         },
         {
             "id": "Luz-Nocturna_Modded",
-            "last_update": 1677820671000,
+            "last_update": 1683796783000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Luz-Nocturna_Modded/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Luz-Nocturna_Modded/main/module.prop",
-            "stars": 2,
+            "stars": 3,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Luz-Nocturna_Modded/archive/main.zip"
         },
         {
@@ -643,10 +643,10 @@
         },
         {
             "id": "saturation",
-            "last_update": 1682489630000,
+            "last_update": 1683796795000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/saturation/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/saturation/master/module.prop",
-            "stars": 9,
+            "stars": 10,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/saturation/archive/master.zip"
         },
         {
@@ -771,10 +771,10 @@
         },
         {
             "id": "xhhttp",
-            "last_update": 1680344546000,
+            "last_update": 1683796743000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/module.prop",
-            "stars": 3,
+            "stars": 4,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/archive/master.zip"
         },
         {
