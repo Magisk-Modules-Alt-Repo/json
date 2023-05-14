@@ -75,10 +75,10 @@
         },
         {
             "id": "BuiltIn-BusyBox",
-            "last_update": 1683995911000,
+            "last_update": 1684052036000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/module.prop",
-            "stars": 49,
+            "stars": 50,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/archive/main.zip"
         },
         {
@@ -771,10 +771,10 @@
         },
         {
             "id": "xhhttp",
-            "last_update": 1683796743000,
+            "last_update": 1684049989000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/module.prop",
-            "stars": 4,
+            "stars": 5,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/archive/master.zip"
         },
         {
