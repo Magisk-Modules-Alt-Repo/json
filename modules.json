@@ -75,7 +75,7 @@
         },
         {
             "id": "BuiltIn-BusyBox",
-            "last_update": 1684848445000,
+            "last_update": 1684866376000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/module.prop",
             "stars": 54,
