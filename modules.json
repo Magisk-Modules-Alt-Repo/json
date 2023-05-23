@@ -355,10 +355,10 @@
         },
         {
             "id": "isodrive",
-            "last_update": 1684823478000,
+            "last_update": 1684838184000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/isodrive/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/isodrive/main/module.prop",
-            "stars": 0,
+            "stars": 1,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/isodrive/archive/main.zip"
         },
         {
