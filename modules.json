@@ -75,10 +75,10 @@
         },
         {
             "id": "BuiltIn-BusyBox",
-            "last_update": 1684626879000,
+            "last_update": 1684848445000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/module.prop",
-            "stars": 53,
+            "stars": 54,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/archive/main.zip"
         },
         {
@@ -323,10 +323,10 @@
         },
         {
             "id": "Google-Sans-Plus",
-            "last_update": 1677035597000,
+            "last_update": 1684848636000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus/master/module.prop",
-            "stars": 12,
+            "stars": 13,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus/archive/master.zip"
         },
         {
