@@ -491,10 +491,10 @@
         },
         {
             "id": "MiXplorer",
-            "last_update": 1684948643000,
+            "last_update": 1685184761000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/module.prop",
-            "stars": 126,
+            "stars": 127,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/archive/main.zip"
         },
         {
@@ -787,10 +787,10 @@
         },
         {
             "id": "YAKT",
-            "last_update": 1685007033000,
+            "last_update": 1685185892000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/main/module.prop",
-            "stars": 21,
+            "stars": 22,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/YAKT/archive/main.zip"
         },
         {
