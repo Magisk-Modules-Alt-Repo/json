@@ -11,10 +11,10 @@
         },
         {
             "id": "AdGuardDNS4Magisk",
-            "last_update": 1683581033000,
+            "last_update": 1685258530000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/main/module.prop",
-            "stars": 5,
+            "stars": 6,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/archive/main.zip"
         },
         {
@@ -707,10 +707,10 @@
         },
         {
             "id": "ToyBox-Ext",
-            "last_update": 1684813782000,
+            "last_update": 1685261457000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/main/module.prop",
-            "stars": 40,
+            "stars": 41,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/archive/main.zip"
         },
         {
