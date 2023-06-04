@@ -515,10 +515,10 @@
         },
         {
             "id": "node_on_android",
-            "last_update": 1684958999000,
+            "last_update": 1685889083000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/module.prop",
-            "stars": 21,
+            "stars": 22,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/node/archive/master.zip"
         },
         {
