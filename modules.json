@@ -171,10 +171,10 @@
         },
         {
             "id": "DalvikHyperthreading",
-            "last_update": 1686292687000,
+            "last_update": 1686803228000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/main/module.prop",
-            "stars": 10,
+            "stars": 11,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/archive/main.zip"
         },
         {
