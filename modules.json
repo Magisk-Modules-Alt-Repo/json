@@ -267,10 +267,10 @@
         },
         {
             "id": "frozen_magisk_app",
-            "last_update": 1681397164000,
+            "last_update": 1686900024000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/main/module.prop",
-            "stars": 5,
+            "stars": 6,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/archive/main.zip"
         },
         {
