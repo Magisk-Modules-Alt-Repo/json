@@ -370,14 +370,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/King-Tweaks/archive/master.zip"
         },
         {
-            "id": "Lawnchair",
-            "last_update": 1684873288000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Lawnchair/main/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Lawnchair/main/module.prop",
-            "stars": 84,
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Lawnchair/archive/main.zip"
-        },
-        {
             "id": "lhroot",
             "last_update": 1685530890000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/lhroot/master/README.md",
@@ -568,14 +560,6 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplus-9-9pro-camera-unlocker/master/module.prop",
             "stars": 2,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-9-9pro-camera-unlocker/archive/master.zip"
-        },
-        {
-            "id": "OnePlus6Oxygen_22.J.62_debloater",
-            "last_update": 1661263266000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/OnePlus6Oxygen_22.J.62_debloater/main/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/OnePlus6Oxygen_22.J.62_debloater/main/module.prop",
-            "stars": 1,
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/OnePlus6Oxygen_22.J.62_debloater/archive/main.zip"
         },
         {
             "id": "oneplusdotfix",
