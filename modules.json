@@ -722,14 +722,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/archive/main.zip"
         },
         {
-            "id": "unityfix",
-            "last_update": 1675559963000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/unityfix/main/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/unityfix/main/module.prop",
-            "stars": 2,
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/unityfix/archive/main.zip"
-        },
-        {
             "id": "upx-ndk",
             "last_update": 1659789698000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/upx-ndk/master/README.md",
