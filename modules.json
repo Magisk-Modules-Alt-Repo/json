@@ -443,10 +443,10 @@
         },
         {
             "id": "magisk_overlayfs",
-            "last_update": 1687161292000,
+            "last_update": 1687331412000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/module.prop",
-            "stars": 19,
+            "stars": 20,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/archive/main.zip"
         },
         {
@@ -555,10 +555,10 @@
         },
         {
             "id": "oneplus-9-9pro-camera-unlocker",
-            "last_update": 1675441063000,
+            "last_update": 1687330279000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplus-9-9pro-camera-unlocker/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/oneplus-9-9pro-camera-unlocker/master/module.prop",
-            "stars": 2,
+            "stars": 3,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/oneplus-9-9pro-camera-unlocker/archive/master.zip"
         },
         {
@@ -643,10 +643,10 @@
         },
         {
             "id": "sensitive_props",
-            "last_update": 1686933775000,
+            "last_update": 1687329651000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/module.prop",
-            "stars": 45,
+            "stars": 46,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/archive/master.zip"
         },
         {
