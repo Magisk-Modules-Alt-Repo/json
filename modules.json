@@ -43,10 +43,10 @@
         },
         {
             "id": "audio-misc-settings",
-            "last_update": 1687102129000,
+            "last_update": 1687668401000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
-            "stars": 86,
+            "stars": 87,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/archive/master.zip"
         },
         {
@@ -75,10 +75,10 @@
         },
         {
             "id": "BuiltIn-BusyBox",
-            "last_update": 1687604628000,
+            "last_update": 1687667696000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/module.prop",
-            "stars": 66,
+            "stars": 67,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/archive/main.zip"
         },
         {
@@ -155,10 +155,10 @@
         },
         {
             "id": "custom-certificate-authorities",
-            "last_update": 1687615183000,
+            "last_update": 1687668398000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/module.prop",
-            "stars": 30,
+            "stars": 31,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/archive/master.zip"
         },
         {
@@ -179,10 +179,10 @@
         },
         {
             "id": "data_backup",
-            "last_update": 1686999125000,
+            "last_update": 1687667695000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/main/module.prop",
-            "stars": 16,
+            "stars": 17,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/data_backup/archive/main.zip"
         },
         {
@@ -355,10 +355,10 @@
         },
         {
             "id": "isodrive",
-            "last_update": 1687408245000,
+            "last_update": 1687667649000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/isodrive/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/isodrive/main/module.prop",
-            "stars": 10,
+            "stars": 11,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/isodrive/archive/main.zip"
         },
         {
@@ -443,10 +443,10 @@
         },
         {
             "id": "magisk_overlayfs",
-            "last_update": 1687596597000,
+            "last_update": 1687667679000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/module.prop",
-            "stars": 19,
+            "stars": 20,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/archive/main.zip"
         },
         {
@@ -691,10 +691,10 @@
         },
         {
             "id": "ToyBox-Ext",
-            "last_update": 1687104205000,
+            "last_update": 1687667696000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/main/module.prop",
-            "stars": 43,
+            "stars": 44,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/archive/main.zip"
         },
         {
