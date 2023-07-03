@@ -435,10 +435,10 @@
         },
         {
             "id": "magiskhide",
-            "last_update": 1686487372000,
+            "last_update": 1688380805000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHide/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHide/main/module.prop",
-            "stars": 14,
+            "stars": 15,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MagiskHide/archive/main.zip"
         },
         {
@@ -523,10 +523,10 @@
         },
         {
             "id": "NoStorageRestrict",
-            "last_update": 1686924233000,
+            "last_update": 1688380810000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/module.prop",
-            "stars": 123,
+            "stars": 124,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/archive/main.zip"
         },
         {
