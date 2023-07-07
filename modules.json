@@ -75,10 +75,10 @@
         },
         {
             "id": "BuiltIn-BusyBox",
-            "last_update": 1687938888000,
+            "last_update": 1688732493000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/module.prop",
-            "stars": 69,
+            "stars": 70,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/archive/main.zip"
         },
         {
@@ -331,10 +331,10 @@
         },
         {
             "id": "Google_Product_Sans_Font",
-            "last_update": 1674615484000,
+            "last_update": 1688732113000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font/main/module.prop",
-            "stars": 9,
+            "stars": 8,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font/archive/main.zip"
         },
         {
@@ -467,10 +467,10 @@
         },
         {
             "id": "microg_installer",
-            "last_update": 1688055766000,
+            "last_update": 1688732471000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/module.prop",
-            "stars": 48,
+            "stars": 49,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microg_installer/archive/master.zip"
         },
         {
