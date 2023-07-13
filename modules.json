@@ -443,10 +443,10 @@
         },
         {
             "id": "magisk_overlayfs",
-            "last_update": 1689179833000,
+            "last_update": 1689240426000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/module.prop",
-            "stars": 24,
+            "stars": 25,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/archive/main.zip"
         },
         {
@@ -760,6 +760,14 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/module.prop",
             "stars": 9,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/archive/master.zip"
+        },
+        {
+            "id": "xmlpak-RE",
+            "last_update": 1689241167000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xmlpak-RE/RE/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xmlpak-RE/RE/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE/archive/RE.zip"
         },
         {
             "id": "YAKT",
