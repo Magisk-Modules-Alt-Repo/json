@@ -603,10 +603,10 @@
         },
         {
             "id": "pixel-tensor-audio-decompressor",
-            "last_update": 1691876909000,
+            "last_update": 1691989770000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pixel-tensor-audio-decompressor/dev/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pixel-tensor-audio-decompressor/dev/module.prop",
-            "stars": 0,
+            "stars": 1,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/pixel-tensor-audio-decompressor/archive/dev.zip"
         },
         {
