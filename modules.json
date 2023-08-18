@@ -363,10 +363,10 @@
         },
         {
             "id": "HideNavBar",
-            "last_update": 1692246424000,
+            "last_update": 1692319582000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/module.prop",
-            "stars": 187,
+            "stars": 188,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar/archive/master.zip"
         },
         {
@@ -539,10 +539,10 @@
         },
         {
             "id": "NoStorageRestrict",
-            "last_update": 1692022983000,
+            "last_update": 1692317745000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/module.prop",
-            "stars": 132,
+            "stars": 133,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/archive/main.zip"
         },
         {
