@@ -171,10 +171,10 @@
         },
         {
             "id": "DalvikHyperthreading",
-            "last_update": 1692293142000,
+            "last_update": 1692681464000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/main/module.prop",
-            "stars": 13,
+            "stars": 12,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/archive/main.zip"
         },
         {
@@ -539,10 +539,10 @@
         },
         {
             "id": "NoStorageRestrict",
-            "last_update": 1692592883000,
+            "last_update": 1692681453000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/module.prop",
-            "stars": 134,
+            "stars": 135,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/archive/main.zip"
         },
         {
