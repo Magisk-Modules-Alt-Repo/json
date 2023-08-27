@@ -179,7 +179,7 @@
         },
         {
             "id": "data_backup",
-            "last_update": 1692989077000,
+            "last_update": 1693132114000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/main/module.prop",
             "stars": 32,
@@ -195,7 +195,7 @@
         },
         {
             "id": "data_restore_Courier",
-            "last_update": 1692988758000,
+            "last_update": 1693132100000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_restore_Courier/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_restore_Courier/main/module.prop",
             "stars": 2,
