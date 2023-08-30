@@ -187,10 +187,10 @@
         },
         {
             "id": "data_isolation_support",
-            "last_update": 1684756707000,
+            "last_update": 1693413623000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_isolation_support/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_isolation_support/main/module.prop",
-            "stars": 11,
+            "stars": 12,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support/archive/main.zip"
         },
         {
@@ -690,6 +690,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/archive/master.zip"
         },
         {
+            "id": "smallbattery",
+            "last_update": 1693414833000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/smallbattery/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/smallbattery/main/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery/archive/main.zip"
+        },
+        {
             "id": "SomcGameEnhancer-Upgrade",
             "last_update": 1666479585000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade/main/README.md",
@@ -792,6 +800,14 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/vintf-bypass/master/module.prop",
             "stars": 7,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass/archive/master.zip"
+        },
+        {
+            "id": "wifi-bonding-nolog",
+            "last_update": 1693414982000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/archive/master.zip"
         },
         {
             "id": "xhhttp",
