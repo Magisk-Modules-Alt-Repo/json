@@ -75,10 +75,10 @@
         },
         {
             "id": "BuiltIn-BusyBox",
-            "last_update": 1693545644000,
+            "last_update": 1693581523000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/module.prop",
-            "stars": 94,
+            "stars": 95,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/archive/main.zip"
         },
         {
@@ -483,10 +483,10 @@
         },
         {
             "id": "Malwack",
-            "last_update": 1693578621000,
+            "last_update": 1693582115000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/module.prop",
-            "stars": 0,
+            "stars": 1,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/archive/main.zip"
         },
         {
