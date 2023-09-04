@@ -35,10 +35,10 @@
         },
         {
             "id": "audio-jitter-silencer",
-            "last_update": 1693390465000,
+            "last_update": 1693839319000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/module.prop",
-            "stars": 32,
+            "stars": 33,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/archive/main.zip"
         },
         {
@@ -115,10 +115,10 @@
         },
         {
             "id": "Clash4Magisk",
-            "last_update": 1693631651000,
+            "last_update": 1693838346000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Clash4Magisk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Clash4Magisk/master/module.prop",
-            "stars": 3,
+            "stars": 4,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Clash4Magisk/archive/master.zip"
         },
         {
