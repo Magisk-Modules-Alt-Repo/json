@@ -43,10 +43,10 @@
         },
         {
             "id": "audio-misc-settings",
-            "last_update": 1693964913000,
+            "last_update": 1693975608000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
-            "stars": 103,
+            "stars": 102,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/archive/master.zip"
         },
         {
@@ -339,10 +339,10 @@
         },
         {
             "id": "Google-Sans",
-            "last_update": 1693914348000,
+            "last_update": 1693975761000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google-Sans/master/module.prop",
-            "stars": 5,
+            "stars": 4,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans/archive/master.zip"
         },
         {
@@ -611,10 +611,10 @@
         },
         {
             "id": "open_webview",
-            "last_update": 1693733191000,
+            "last_update": 1693975637000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/module.prop",
-            "stars": 81,
+            "stars": 80,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip"
         },
         {
