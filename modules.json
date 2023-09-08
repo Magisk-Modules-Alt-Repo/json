@@ -691,10 +691,10 @@
         },
         {
             "id": "sensitive_props",
-            "last_update": 1694032877000,
+            "last_update": 1694199962000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/module.prop",
-            "stars": 63,
+            "stars": 64,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/archive/master.zip"
         },
         {
@@ -843,10 +843,10 @@
         },
         {
             "id": "YAKT",
-            "last_update": 1693196475000,
+            "last_update": 1694199961000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/main/module.prop",
-            "stars": 24,
+            "stars": 25,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/YAKT/archive/main.zip"
         },
         {
