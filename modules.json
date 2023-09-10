@@ -379,10 +379,10 @@
         },
         {
             "id": "isodrive",
-            "last_update": 1694362747000,
+            "last_update": 1694363291000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/isodrive/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/isodrive/main/module.prop",
-            "stars": 16,
+            "stars": 17,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/isodrive/archive/main.zip"
         },
         {
@@ -819,10 +819,10 @@
         },
         {
             "id": "wifi-bonding-nolog",
-            "last_update": 1694061148000,
+            "last_update": 1694365685000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/module.prop",
-            "stars": 3,
+            "stars": 4,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/archive/master.zip"
         },
         {
