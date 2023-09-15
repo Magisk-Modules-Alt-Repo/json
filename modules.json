@@ -19,10 +19,10 @@
         },
         {
             "id": "AdGuardDNS4Magisk-IPv6",
-            "last_update": 1692441528000,
+            "last_update": 1694803272000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6/main/module.prop",
-            "stars": 5,
+            "stars": 6,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6/archive/main.zip"
         },
         {
@@ -163,26 +163,26 @@
         },
         {
             "id": "CustomizedNavbar",
-            "last_update": 1694515545000,
+            "last_update": 1694803612000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/main/module.prop",
-            "stars": 23,
+            "stars": 24,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/CustomizedNavbar/archive/main.zip"
         },
         {
             "id": "DalvikHyperthreading",
-            "last_update": 1693025194000,
+            "last_update": 1694803993000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/main/module.prop",
-            "stars": 15,
+            "stars": 16,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/archive/main.zip"
         },
         {
             "id": "data_backup",
-            "last_update": 1693132114000,
+            "last_update": 1694802830000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/main/module.prop",
-            "stars": 32,
+            "stars": 33,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/data_backup/archive/main.zip"
         },
         {
@@ -211,10 +211,10 @@
         },
         {
             "id": "Disable_high_volume_warning",
-            "last_update": 1690995980000,
+            "last_update": 1694802044000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Disable_high_volume_warning/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Disable_high_volume_warning/main/module.prop",
-            "stars": 2,
+            "stars": 3,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Disable_high_volume_warning/archive/main.zip"
         },
         {
@@ -235,10 +235,10 @@
         },
         {
             "id": "Evolve-Evo",
-            "last_update": 1687037025000,
+            "last_update": 1694803150000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Evolve-Evo/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Evolve-Evo/master/module.prop",
-            "stars": 5,
+            "stars": 6,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Evolve-Evo/archive/master.zip"
         },
         {
@@ -323,18 +323,18 @@
         },
         {
             "id": "GMSDozeBlockFind",
-            "last_update": 1683617711000,
+            "last_update": 1694803180000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice/main/module.prop",
-            "stars": 9,
+            "stars": 10,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice/archive/main.zip"
         },
         {
             "id": "GMSDoze",
-            "last_update": 1694638788000,
+            "last_update": 1694803243000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/main/module.prop",
-            "stars": 47,
+            "stars": 48,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze/archive/main.zip"
         },
         {
@@ -395,10 +395,10 @@
         },
         {
             "id": "lhroot",
-            "last_update": 1691863526000,
+            "last_update": 1694803855000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/lhroot/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/lhroot/master/module.prop",
-            "stars": 27,
+            "stars": 28,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/lhroot/archive/master.zip"
         },
         {
@@ -443,34 +443,34 @@
         },
         {
             "id": "font-koruri-n",
-            "last_update": 1676380966000,
+            "last_update": 1694803758000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-module-koruri-font/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-module-koruri-font/master/module.prop",
-            "stars": 2,
+            "stars": 3,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-koruri-font/archive/master.zip"
         },
         {
             "id": "font-mejiro-oshi",
-            "last_update": 1647288893000,
+            "last_update": 1694803847000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font/master/module.prop",
-            "stars": 4,
+            "stars": 5,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font/archive/master.zip"
         },
         {
             "id": "magiskhide",
-            "last_update": 1694662846000,
+            "last_update": 1694803747000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHide/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHide/main/module.prop",
-            "stars": 18,
+            "stars": 19,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MagiskHide/archive/main.zip"
         },
         {
             "id": "magisk_overlayfs",
-            "last_update": 1693628075000,
+            "last_update": 1694802817000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/module.prop",
-            "stars": 33,
+            "stars": 34,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/archive/main.zip"
         },
         {
@@ -491,18 +491,18 @@
         },
         {
             "id": "microG-GApps",
-            "last_update": 1692948867000,
+            "last_update": 1694802073000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/module.prop",
-            "stars": 54,
+            "stars": 55,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps/archive/master.zip"
         },
         {
             "id": "microg_installer",
-            "last_update": 1694721206000,
+            "last_update": 1694803025000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/module.prop",
-            "stars": 52,
+            "stars": 53,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microg_installer/archive/master.zip"
         },
         {
@@ -603,18 +603,18 @@
         },
         {
             "id": "open_fonts",
-            "last_update": 1693382249000,
+            "last_update": 1694803312000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_fonts/master/module.prop",
-            "stars": 50,
+            "stars": 51,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_fonts/archive/master.zip"
         },
         {
             "id": "open_webview",
-            "last_update": 1694506190000,
+            "last_update": 1694802873000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/module.prop",
-            "stars": 82,
+            "stars": 83,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip"
         },
         {
@@ -699,10 +699,10 @@
         },
         {
             "id": "simple_bootloopsaver",
-            "last_update": 1693811897000,
+            "last_update": 1694802097000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/module.prop",
-            "stars": 7,
+            "stars": 8,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/archive/master.zip"
         },
         {
@@ -723,10 +723,10 @@
         },
         {
             "id": "supl-replacer",
-            "last_update": 1693605398000,
+            "last_update": 1694803629000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/supl-replacer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/supl-replacer/master/module.prop",
-            "stars": 23,
+            "stars": 24,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/supl-replacer/archive/master.zip"
         },
         {
@@ -779,10 +779,10 @@
         },
         {
             "id": "UbuntuFontVinaooo",
-            "last_update": 1692441518000,
+            "last_update": 1694803248000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/main/module.prop",
-            "stars": 2,
+            "stars": 3,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/UbuntuFontVinaooo/archive/main.zip"
         },
         {
@@ -835,10 +835,10 @@
         },
         {
             "id": "xmlpak-RE",
-            "last_update": 1694586745000,
+            "last_update": 1694802053000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xmlpak-RE/RE/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xmlpak-RE/RE/module.prop",
-            "stars": 8,
+            "stars": 9,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE/archive/RE.zip"
         },
         {
@@ -859,18 +859,18 @@
         },
         {
             "id": "ytrevancedinject",
-            "last_update": 1693446692000,
+            "last_update": 1694803946000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytrevancedinject/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytrevancedinject/main/module.prop",
-            "stars": 26,
+            "stars": 27,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject/archive/main.zip"
         },
         {
             "id": "zram-swap-manager",
-            "last_update": 1692053972000,
+            "last_update": 1694803581000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/zram-swap-manager/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/zram-swap-manager/master/module.prop",
-            "stars": 17,
+            "stars": 18,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/zram-swap-manager/archive/master.zip"
         }
     ],
