@@ -371,10 +371,10 @@
         },
         {
             "id": "HideNavBar",
-            "last_update": 1694801925000,
+            "last_update": 1694953600000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/module.prop",
-            "stars": 209,
+            "stars": 210,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar/archive/master.zip"
         },
         {
@@ -467,10 +467,10 @@
         },
         {
             "id": "magisk_overlayfs",
-            "last_update": 1694802817000,
+            "last_update": 1694953704000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/module.prop",
-            "stars": 34,
+            "stars": 35,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/archive/main.zip"
         },
         {
