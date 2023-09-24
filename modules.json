@@ -251,10 +251,10 @@
         },
         {
             "id": "ezme-nodebug",
-            "last_update": 1695326560000,
+            "last_update": 1695535153000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-nodebug/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-nodebug/main/module.prop",
-            "stars": 14,
+            "stars": 15,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug/archive/main.zip"
         },
         {
