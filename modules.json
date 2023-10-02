@@ -155,10 +155,10 @@
         },
         {
             "id": "custom-certificate-authorities",
-            "last_update": 1694806808000,
+            "last_update": 1696208174000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/module.prop",
-            "stars": 37,
+            "stars": 38,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/archive/master.zip"
         },
         {
@@ -379,10 +379,10 @@
         },
         {
             "id": "isodrive",
-            "last_update": 1694799160000,
+            "last_update": 1696208273000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/isodrive/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/isodrive/main/module.prop",
-            "stars": 20,
+            "stars": 21,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/isodrive/archive/main.zip"
         },
         {
