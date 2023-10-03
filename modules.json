@@ -275,10 +275,10 @@
         },
         {
             "id": "FluentEmojiMagisk",
-            "last_update": 1694801831000,
+            "last_update": 1696366598000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk/main/module.prop",
-            "stars": 4,
+            "stars": 5,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/FluentEmojiMagisk/archive/main.zip"
         },
         {
@@ -371,10 +371,10 @@
         },
         {
             "id": "HideNavBar",
-            "last_update": 1695912495000,
+            "last_update": 1696366549000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/module.prop",
-            "stars": 216,
+            "stars": 217,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar/archive/master.zip"
         },
         {
@@ -739,10 +739,10 @@
         },
         {
             "id": "ThemedProject",
-            "last_update": 1694893725000,
+            "last_update": 1696366184000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ThemedProject/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ThemedProject/main/module.prop",
-            "stars": 16,
+            "stars": 17,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ThemedProject/archive/main.zip"
         },
         {
@@ -811,10 +811,10 @@
         },
         {
             "id": "wifi-bonding-nolog",
-            "last_update": 1695574189000,
+            "last_update": 1696366475000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/module.prop",
-            "stars": 4,
+            "stars": 5,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/archive/master.zip"
         },
         {
@@ -835,10 +835,10 @@
         },
         {
             "id": "YAKT",
-            "last_update": 1694799697000,
+            "last_update": 1696366713000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/main/module.prop",
-            "stars": 26,
+            "stars": 27,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/YAKT/archive/main.zip"
         },
         {
