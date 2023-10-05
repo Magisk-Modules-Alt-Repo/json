@@ -75,7 +75,7 @@
         },
         {
             "id": "BuiltIn-BusyBox",
-            "last_update": 1696461849000,
+            "last_update": 1696487386000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/module.prop",
             "stars": 106,
@@ -699,10 +699,10 @@
         },
         {
             "id": "smallbattery",
-            "last_update": 1694799337000,
+            "last_update": 1696489955000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/smallbattery/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/smallbattery/main/module.prop",
-            "stars": 1,
+            "stars": 2,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery/archive/main.zip"
         },
         {
@@ -787,10 +787,10 @@
         },
         {
             "id": "upx-ndk",
-            "last_update": 1694806470000,
+            "last_update": 1696490048000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/upx-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/upx-ndk/master/module.prop",
-            "stars": 1,
+            "stars": 2,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/upx-ndk/archive/master.zip"
         },
         {
