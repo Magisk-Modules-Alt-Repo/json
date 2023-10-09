@@ -691,10 +691,10 @@
         },
         {
             "id": "simple_bootloopsaver",
-            "last_update": 1696493082000,
+            "last_update": 1696853532000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/module.prop",
-            "stars": 10,
+            "stars": 12,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/archive/master.zip"
         },
         {
