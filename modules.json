@@ -715,10 +715,10 @@
         },
         {
             "id": "supl-replacer",
-            "last_update": 1694803629000,
+            "last_update": 1697596764000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/supl-replacer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/supl-replacer/master/module.prop",
-            "stars": 24,
+            "stars": 25,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/supl-replacer/archive/master.zip"
         },
         {
