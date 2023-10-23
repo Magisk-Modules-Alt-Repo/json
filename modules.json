@@ -467,7 +467,7 @@
         },
         {
             "id": "magisk_overlayfs",
-            "last_update": 1698045966000,
+            "last_update": 1698077806000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/module.prop",
             "stars": 40,
@@ -491,10 +491,10 @@
         },
         {
             "id": "microG-GApps",
-            "last_update": 1696865145000,
+            "last_update": 1698075808000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/module.prop",
-            "stars": 58,
+            "stars": 59,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps/archive/master.zip"
         },
         {
