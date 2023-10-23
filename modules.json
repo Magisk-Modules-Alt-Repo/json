@@ -507,18 +507,18 @@
         },
         {
             "id": "MiXplorer",
-            "last_update": 1698069442000,
+            "last_update": 1698079108000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/module.prop",
-            "stars": 169,
+            "stars": 170,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/archive/main.zip"
         },
         {
             "id": "mkshrc",
-            "last_update": 1695567598000,
+            "last_update": 1698078815000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/module.prop",
-            "stars": 22,
+            "stars": 23,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/archive/master.zip"
         },
         {
@@ -739,10 +739,10 @@
         },
         {
             "id": "ThemedProject",
-            "last_update": 1697585542000,
+            "last_update": 1698078750000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ThemedProject/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ThemedProject/main/module.prop",
-            "stars": 18,
+            "stars": 19,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ThemedProject/archive/main.zip"
         },
         {
