@@ -139,10 +139,10 @@
         },
         {
             "id": "cmdpatch",
-            "last_update": 1693534502000,
+            "last_update": 1698054340000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/cmdpatch/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/cmdpatch/master/module.prop",
-            "stars": 14,
+            "stars": 15,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/cmdpatch/archive/master.zip"
         },
         {
@@ -483,10 +483,10 @@
         },
         {
             "id": "Malwack",
-            "last_update": 1697803567000,
+            "last_update": 1698053556000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/module.prop",
-            "stars": 30,
+            "stars": 31,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/archive/main.zip"
         },
         {
@@ -507,10 +507,10 @@
         },
         {
             "id": "MiXplorer",
-            "last_update": 1698052350000,
+            "last_update": 1698053453000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/module.prop",
-            "stars": 167,
+            "stars": 168,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/archive/main.zip"
         },
         {
