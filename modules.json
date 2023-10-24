@@ -731,10 +731,10 @@
         },
         {
             "id": "systemui-bootloop",
-            "last_update": 1694806812000,
+            "last_update": 1698169843000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemui-bootloop/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemui-bootloop/main/module.prop",
-            "stars": 22,
+            "stars": 23,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/systemui-bootloop/archive/main.zip"
         },
         {
@@ -843,10 +843,10 @@
         },
         {
             "id": "ytmusic_revancedinject",
-            "last_update": 1689850897000,
+            "last_update": 1698169776000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytmusic_revancedinject/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytmusic_revancedinject/main/module.prop",
-            "stars": 7,
+            "stars": 8,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ytmusic_revancedinject/archive/main.zip"
         },
         {
