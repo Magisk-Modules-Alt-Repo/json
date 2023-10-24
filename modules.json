@@ -251,10 +251,10 @@
         },
         {
             "id": "ezme-nodebug",
-            "last_update": 1697163253000,
+            "last_update": 1698142118000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-nodebug/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-nodebug/main/module.prop",
-            "stars": 16,
+            "stars": 17,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug/archive/main.zip"
         },
         {
@@ -683,18 +683,18 @@
         },
         {
             "id": "sensitive_props",
-            "last_update": 1698102332000,
+            "last_update": 1698142074000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/module.prop",
-            "stars": 84,
+            "stars": 85,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/archive/master.zip"
         },
         {
             "id": "simple_bootloopsaver",
-            "last_update": 1697761720000,
+            "last_update": 1698142091000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/module.prop",
-            "stars": 13,
+            "stars": 14,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/archive/master.zip"
         },
         {
