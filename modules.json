@@ -619,10 +619,10 @@
         },
         {
             "id": "perf-limit-xiaomi-12",
-            "last_update": 1696531386000,
+            "last_update": 1698195725000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12/main/module.prop",
-            "stars": 2,
+            "stars": 3,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12/archive/main.zip"
         },
         {
