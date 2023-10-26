@@ -283,10 +283,10 @@
         },
         {
             "id": "FOSSAPPS",
-            "last_update": 1681257243000,
+            "last_update": 1698280919000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FOSSAPPS/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/FOSSAPPS/main/module.prop",
-            "stars": 12,
+            "stars": 13,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/FOSSAPPS/archive/main.zip"
         },
         {
@@ -491,10 +491,10 @@
         },
         {
             "id": "microG-GApps",
-            "last_update": 1698247683000,
+            "last_update": 1698279570000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/module.prop",
-            "stars": 60,
+            "stars": 61,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps/archive/master.zip"
         },
         {
