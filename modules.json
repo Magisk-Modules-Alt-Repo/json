@@ -419,7 +419,7 @@
         },
         {
             "id": "magic-flash",
-            "last_update": 1696761418000,
+            "last_update": 1698432177000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/main/module.prop",
             "stars": 119,
@@ -810,7 +810,7 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass/archive/master.zip"
         },
         {
-            "id": "wifi-bonding-nolog",
+            "id": "wifi-bonding",
             "last_update": 1698147435000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/module.prop",
