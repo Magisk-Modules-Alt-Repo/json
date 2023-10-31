@@ -155,10 +155,10 @@
         },
         {
             "id": "custom-certificate-authorities",
-            "last_update": 1696714809000,
+            "last_update": 1698786379000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/master/module.prop",
-            "stars": 39,
+            "stars": 40,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/custom-certificate-authorities/archive/master.zip"
         },
         {
@@ -491,10 +491,10 @@
         },
         {
             "id": "microG-GApps",
-            "last_update": 1698279570000,
+            "last_update": 1698786715000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microG-GApps/master/module.prop",
-            "stars": 61,
+            "stars": 62,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microG-GApps/archive/master.zip"
         },
         {
@@ -739,10 +739,10 @@
         },
         {
             "id": "ThemedProject",
-            "last_update": 1698078750000,
+            "last_update": 1698785934000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ThemedProject/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ThemedProject/main/module.prop",
-            "stars": 19,
+            "stars": 20,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ThemedProject/archive/main.zip"
         },
         {
