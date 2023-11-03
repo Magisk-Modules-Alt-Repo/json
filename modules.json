@@ -67,10 +67,10 @@
         },
         {
             "id": "BraviaEngine",
-            "last_update": 1692713713000,
+            "last_update": 1698989999000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BraviaEngine/4.0.6/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BraviaEngine/4.0.6/module.prop",
-            "stars": 3,
+            "stars": 4,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/BraviaEngine/archive/4.0.6.zip"
         },
         {
@@ -827,10 +827,10 @@
         },
         {
             "id": "xmlpak-RE",
-            "last_update": 1698885774000,
+            "last_update": 1698990029000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xmlpak-RE/RE/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xmlpak-RE/RE/module.prop",
-            "stars": 11,
+            "stars": 12,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE/archive/RE.zip"
         },
         {
