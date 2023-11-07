@@ -11,10 +11,10 @@
         },
         {
             "id": "AdGuardDNS4Magisk",
-            "last_update": 1698885770000,
+            "last_update": 1699383116000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/main/module.prop",
-            "stars": 11,
+            "stars": 12,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/archive/main.zip"
         },
         {
@@ -75,10 +75,10 @@
         },
         {
             "id": "BuiltIn-BusyBox",
-            "last_update": 1699269832000,
+            "last_update": 1699383101000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/module.prop",
-            "stars": 111,
+            "stars": 112,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/archive/main.zip"
         },
         {
@@ -171,10 +171,10 @@
         },
         {
             "id": "DalvikHyperthreading",
-            "last_update": 1698885768000,
+            "last_update": 1699383114000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/main/module.prop",
-            "stars": 21,
+            "stars": 22,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/archive/main.zip"
         },
         {
@@ -291,10 +291,10 @@
         },
         {
             "id": "frozen_magisk_app",
-            "last_update": 1698885768000,
+            "last_update": 1699383113000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/main/module.prop",
-            "stars": 8,
+            "stars": 9,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/archive/main.zip"
         },
         {
@@ -371,10 +371,10 @@
         },
         {
             "id": "HideNavBar",
-            "last_update": 1699360779000,
+            "last_update": 1699383101000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/module.prop",
-            "stars": 243,
+            "stars": 244,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar/archive/master.zip"
         },
         {
@@ -483,10 +483,10 @@
         },
         {
             "id": "Malwack",
-            "last_update": 1698885777000,
+            "last_update": 1699383123000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/module.prop",
-            "stars": 36,
+            "stars": 37,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/archive/main.zip"
         },
         {
@@ -499,26 +499,26 @@
         },
         {
             "id": "microg_installer",
-            "last_update": 1698885755000,
+            "last_update": 1699383100000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/microg_installer/master/module.prop",
-            "stars": 53,
+            "stars": 54,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/microg_installer/archive/master.zip"
         },
         {
             "id": "MiXplorer",
-            "last_update": 1699361953000,
+            "last_update": 1699383100000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/module.prop",
-            "stars": 174,
+            "stars": 175,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/archive/main.zip"
         },
         {
             "id": "mkshrc",
-            "last_update": 1698885766000,
+            "last_update": 1699383111000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/module.prop",
-            "stars": 24,
+            "stars": 25,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/archive/master.zip"
         },
         {
@@ -539,10 +539,10 @@
         },
         {
             "id": "node_on_android",
-            "last_update": 1698885765000,
+            "last_update": 1699383111000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/module.prop",
-            "stars": 34,
+            "stars": 35,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/node/archive/master.zip"
         },
         {
@@ -691,18 +691,18 @@
         },
         {
             "id": "simple_bootloopsaver",
-            "last_update": 1698982362000,
+            "last_update": 1699383121000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/module.prop",
-            "stars": 16,
+            "stars": 17,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/archive/master.zip"
         },
         {
             "id": "smallbattery",
-            "last_update": 1698885777000,
+            "last_update": 1699383123000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/smallbattery/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/smallbattery/main/module.prop",
-            "stars": 2,
+            "stars": 3,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery/archive/main.zip"
         },
         {
@@ -739,10 +739,10 @@
         },
         {
             "id": "ThemedProject",
-            "last_update": 1698885771000,
+            "last_update": 1699383117000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ThemedProject/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ThemedProject/main/module.prop",
-            "stars": 19,
+            "stars": 20,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ThemedProject/archive/main.zip"
         },
         {
@@ -787,10 +787,10 @@
         },
         {
             "id": "upx-ndk",
-            "last_update": 1698885763000,
+            "last_update": 1699383108000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/upx-ndk/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/upx-ndk/master/module.prop",
-            "stars": 1,
+            "stars": 2,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/upx-ndk/archive/master.zip"
         },
         {
@@ -811,10 +811,10 @@
         },
         {
             "id": "wifi-bonding",
-            "last_update": 1698885777000,
+            "last_update": 1699383123000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/module.prop",
-            "stars": 7,
+            "stars": 8,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/archive/master.zip"
         },
         {
@@ -827,10 +827,10 @@
         },
         {
             "id": "xmlpak-RE",
-            "last_update": 1698990029000,
+            "last_update": 1699383120000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xmlpak-RE/RE/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xmlpak-RE/RE/module.prop",
-            "stars": 12,
+            "stars": 13,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/xmlpak-RE/archive/RE.zip"
         },
         {
@@ -851,10 +851,10 @@
         },
         {
             "id": "ytrevancedinject",
-            "last_update": 1699282882000,
+            "last_update": 1699383113000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytrevancedinject/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ytrevancedinject/main/module.prop",
-            "stars": 26,
+            "stars": 27,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ytrevancedinject/archive/main.zip"
         },
         {
