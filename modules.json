@@ -43,10 +43,10 @@
         },
         {
             "id": "audio-misc-settings",
-            "last_update": 1699621081000,
+            "last_update": 1699699707000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
-            "stars": 113,
+            "stars": 114,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/archive/master.zip"
         },
         {
@@ -371,10 +371,10 @@
         },
         {
             "id": "HideNavBar",
-            "last_update": 1699629675000,
+            "last_update": 1699700480000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/module.prop",
-            "stars": 246,
+            "stars": 247,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar/archive/master.zip"
         },
         {
@@ -691,10 +691,10 @@
         },
         {
             "id": "simple_bootloopsaver",
-            "last_update": 1699540854000,
+            "last_update": 1699700369000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/module.prop",
-            "stars": 18,
+            "stars": 19,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/archive/master.zip"
         },
         {
