@@ -483,10 +483,10 @@
         },
         {
             "id": "Malwack",
-            "last_update": 1699398982000,
+            "last_update": 1699860372000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/module.prop",
-            "stars": 36,
+            "stars": 35,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/archive/main.zip"
         },
         {
@@ -691,10 +691,10 @@
         },
         {
             "id": "simple_bootloopsaver",
-            "last_update": 1699834842000,
+            "last_update": 1699859995000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/module.prop",
-            "stars": 18,
+            "stars": 19,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/archive/master.zip"
         },
         {
@@ -739,10 +739,10 @@
         },
         {
             "id": "ThemedProject",
-            "last_update": 1699383117000,
+            "last_update": 1699861450000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ThemedProject/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ThemedProject/main/module.prop",
-            "stars": 20,
+            "stars": 21,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ThemedProject/archive/main.zip"
         },
         {
