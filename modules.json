@@ -75,10 +75,10 @@
         },
         {
             "id": "BuiltIn-BusyBox",
-            "last_update": 1699469031000,
+            "last_update": 1699832709000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/module.prop",
-            "stars": 114,
+            "stars": 115,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/archive/main.zip"
         },
         {
@@ -371,10 +371,10 @@
         },
         {
             "id": "HideNavBar",
-            "last_update": 1699722730000,
+            "last_update": 1699832945000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/HideNavBar/master/module.prop",
-            "stars": 246,
+            "stars": 247,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/HideNavBar/archive/master.zip"
         },
         {
@@ -691,10 +691,10 @@
         },
         {
             "id": "simple_bootloopsaver",
-            "last_update": 1699700369000,
+            "last_update": 1699834842000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/master/module.prop",
-            "stars": 19,
+            "stars": 18,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Simple_BootloopSaver/archive/master.zip"
         },
         {
