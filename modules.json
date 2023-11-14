@@ -187,7 +187,7 @@
         },
         {
             "id": "data_isolation_support",
-            "last_update": 1699926351000,
+            "last_update": 1699931155000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_isolation_support/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_isolation_support/main/module.prop",
             "stars": 14,
@@ -291,10 +291,10 @@
         },
         {
             "id": "frozen_magisk_app",
-            "last_update": 1699383113000,
+            "last_update": 1699930540000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/main/module.prop",
-            "stars": 9,
+            "stars": 10,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/frozen_magisk_app/archive/main.zip"
         },
         {
@@ -683,10 +683,10 @@
         },
         {
             "id": "sensitive_props",
-            "last_update": 1699629668000,
+            "last_update": 1699931699000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/module.prop",
-            "stars": 89,
+            "stars": 90,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/archive/master.zip"
         },
         {
