@@ -667,10 +667,10 @@
         },
         {
             "id": "saturation",
-            "last_update": 1699855812000,
+            "last_update": 1699959937000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/saturation/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/saturation/master/module.prop",
-            "stars": 11,
+            "stars": 10,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/saturation/archive/master.zip"
         },
         {
