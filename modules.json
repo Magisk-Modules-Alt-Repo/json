@@ -515,7 +515,7 @@
         },
         {
             "id": "mkshrc",
-            "last_update": 1700406810000,
+            "last_update": 1701020965000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/module.prop",
             "stars": 29,
@@ -539,7 +539,7 @@
         },
         {
             "id": "node_on_android",
-            "last_update": 1700327868000,
+            "last_update": 1701020945000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/module.prop",
             "stars": 36,
@@ -819,7 +819,7 @@
         },
         {
             "id": "xhhttp",
-            "last_update": 1698271194000,
+            "last_update": 1701021094000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/module.prop",
             "stars": 13,
