@@ -394,14 +394,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/isodrive/archive/main.zip"
         },
         {
-            "id": "KTSR",
-            "last_update": 1659136922000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/King-Tweaks/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/King-Tweaks/master/module.prop",
-            "stars": 23,
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/King-Tweaks/archive/master.zip"
-        },
-        {
             "id": "lhroot",
             "last_update": 1676718135000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/lhroot/master/README.md",
