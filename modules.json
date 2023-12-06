@@ -46,7 +46,7 @@
             "last_update": 1693302157000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/module.prop",
-            "stars": 43,
+            "stars": 44,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/archive/main.zip"
         },
         {
@@ -54,7 +54,7 @@
             "last_update": 1691936900000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
-            "stars": 115,
+            "stars": 116,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/archive/master.zip"
         },
         {
@@ -763,7 +763,7 @@
         },
         {
             "id": "ttf-twemoji",
-            "last_update": 1662816153000,
+            "last_update": 1701825089000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ttf-twemoji/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ttf-twemoji/main/module.prop",
             "stars": 8,
