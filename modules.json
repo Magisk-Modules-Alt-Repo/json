@@ -362,6 +362,22 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Google-Sans-Plus/archive/master.zip"
         },
         {
+            "id": "GoogleDNS4Magisk",
+            "last_update": 1702290333000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GoogleDNS4Magisk/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GoogleDNS4Magisk/main/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GoogleDNS4Magisk/archive/main.zip"
+        },
+        {
+            "id": "GoogleDNS4Magisk-IPv6",
+            "last_update": 1702290259000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GoogleDNS4Magisk-IPv6/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GoogleDNS4Magisk-IPv6/main/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GoogleDNS4Magisk-IPv6/archive/main.zip"
+        },
+        {
             "id": "Google_Product_Sans_Font",
             "last_update": 1646152481000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Google_Product_Sans_Font/main/README.md",
