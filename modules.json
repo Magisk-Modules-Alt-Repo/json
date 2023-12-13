@@ -19,7 +19,7 @@
         },
         {
             "id": "AdGuardDNS4Magisk",
-            "last_update": 1701597799000,
+            "last_update": 1702463603000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk/main/module.prop",
             "stars": 13,
@@ -27,7 +27,7 @@
         },
         {
             "id": "AdGuardDNS4Magisk-IPv6",
-            "last_update": 1701597712000,
+            "last_update": 1702463582000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/AdGuardDNS4Magisk-IPv6/main/module.prop",
             "stars": 6,
