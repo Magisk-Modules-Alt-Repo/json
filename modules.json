@@ -474,14 +474,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font/archive/master.zip"
         },
         {
-            "id": "magiskhide",
-            "last_update": 1677950994000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHide/main/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MagiskHide/main/module.prop",
-            "stars": 18,
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MagiskHide/archive/main.zip"
-        },
-        {
             "id": "magisk_overlayfs",
             "last_update": 1686805349000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/README.md",
@@ -534,7 +526,7 @@
             "last_update": 1703018934000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/module.prop",
-            "stars": 30,
+            "stars": 31,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/archive/master.zip"
         },
         {
