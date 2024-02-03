@@ -14,7 +14,7 @@
             "last_update": 1706963354000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/main/module.prop",
-            "stars": 2,
+            "stars": 4,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/abootloop/archive/main.zip"
         },
         {
@@ -682,12 +682,12 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX/archive/main.zip"
         },
         {
-            "id": "qdl-ndk",
-            "last_update": 1659744733000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/qdl-ndk/qdl-master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/qdl-ndk/qdl-master/module.prop",
-            "stars": 3,
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/qdl-ndk/archive/qdl-master.zip"
+            "id": "pmmp",
+            "last_update": 1706964267000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pmmp/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pmmp/main/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/pmmp/archive/main.zip"
         },
         {
             "id": "qdl-ndk",
