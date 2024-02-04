@@ -14,7 +14,7 @@
             "last_update": 1706963354000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/main/module.prop",
-            "stars": 9,
+            "stars": 10,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/abootloop/archive/main.zip"
         },
         {
@@ -763,7 +763,7 @@
         },
         {
             "id": "sqlite3",
-            "last_update": 1705410183000,
+            "last_update": 1707060999000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sqlite3/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sqlite3/master/module.prop",
             "stars": 1,
