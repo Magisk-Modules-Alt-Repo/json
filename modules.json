@@ -851,7 +851,7 @@
         },
         {
             "id": "usb-samplerate-unlocker",
-            "last_update": 1708753956000,
+            "last_update": 1709619360000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/module.prop",
             "stars": 67,
