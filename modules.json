@@ -51,7 +51,7 @@
         },
         {
             "id": "audio-jitter-silencer",
-            "last_update": 1709996799000,
+            "last_update": 1710510216000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/module.prop",
             "stars": 66,
