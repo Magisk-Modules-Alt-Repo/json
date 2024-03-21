@@ -691,11 +691,11 @@
         },
         {
             "id": "pmmp",
-            "last_update": 1710394939000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/PocketMine-MP4Android/main/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/PocketMine-MP4Android/main/module.prop",
+            "last_update": 1711037252000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pmmp/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pmmp/main/module.prop",
             "stars": 0,
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/PocketMine-MP4Android/archive/main.zip"
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/pmmp/archive/main.zip"
         },
         {
             "id": "qdl-ndk",
