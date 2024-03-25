@@ -142,7 +142,7 @@
             "last_update": 1710598878000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/main/module.prop",
-            "stars": 20,
+            "stars": 21,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro/archive/main.zip"
         },
         {
@@ -470,7 +470,7 @@
             "last_update": 1652933875000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magic-flash/main/module.prop",
-            "stars": 132,
+            "stars": 133,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magic-flash/archive/main.zip"
         },
         {
@@ -478,7 +478,7 @@
             "last_update": 1704118593000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-autoboot/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-autoboot/main/module.prop",
-            "stars": 6,
+            "stars": 7,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk-autoboot/archive/main.zip"
         },
         {
@@ -630,7 +630,7 @@
             "last_update": 1624492127000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/OneController/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/OneController/master/module.prop",
-            "stars": 9,
+            "stars": 10,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/OneController/archive/master.zip"
         },
         {
@@ -782,7 +782,7 @@
             "last_update": 1710449902000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sqlite3/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sqlite3/master/module.prop",
-            "stars": 2,
+            "stars": 3,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/sqlite3/archive/master.zip"
         },
         {
@@ -894,7 +894,7 @@
             "last_update": 1701025578000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/xhhttp/master/module.prop",
-            "stars": 18,
+            "stars": 19,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/xhhttp/archive/master.zip"
         },
         {
