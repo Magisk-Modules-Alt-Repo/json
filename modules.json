@@ -59,7 +59,7 @@
         },
         {
             "id": "audio-misc-settings",
-            "last_update": 1713443726000,
+            "last_update": 1714820426000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
             "stars": 170,
@@ -646,7 +646,7 @@
             "last_update": 1624492127000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/OneController/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/OneController/master/module.prop",
-            "stars": 11,
+            "stars": 12,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/OneController/archive/master.zip"
         },
         {
