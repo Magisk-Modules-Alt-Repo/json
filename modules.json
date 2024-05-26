@@ -250,6 +250,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Detach/archive/master.zip"
         },
         {
+            "id": "disable-low-ram",
+            "last_update": 1716649112000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/disable-low-ram/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/disable-low-ram/main/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/disable-low-ram/archive/main.zip"
+        },
+        {
             "id": "Disable_high_volume_warning",
             "last_update": 1690446974000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Disable_high_volume_warning/main/README.md",
