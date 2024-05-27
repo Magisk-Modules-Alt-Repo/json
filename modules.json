@@ -126,7 +126,7 @@
             "last_update": 1600642258000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_openrc/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_openrc/master/module.prop",
-            "stars": 2,
+            "stars": 3,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/charch_openrc/archive/master.zip"
         },
         {
@@ -251,7 +251,7 @@
         },
         {
             "id": "disable-low-ram",
-            "last_update": 1716649112000,
+            "last_update": 1716765664000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/disable-low-ram/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/disable-low-ram/main/module.prop",
             "stars": 0,
