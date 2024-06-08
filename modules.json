@@ -747,7 +747,7 @@
         },
         {
             "id": "resampling-for-cheapies",
-            "last_update": 1717843628000,
+            "last_update": 1717866950000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/main/module.prop",
             "stars": 0,
@@ -832,6 +832,14 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/supl-replacer/master/module.prop",
             "stars": 38,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/supl-replacer/archive/master.zip"
+        },
+        {
+            "id": "systemless_adblocker",
+            "last_update": 1717798410000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemless-adblocker/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/systemless-adblocker/main/module.prop",
+            "stars": 1,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/systemless-adblocker/archive/main.zip"
         },
         {
             "id": "SystemlessDebloater",
