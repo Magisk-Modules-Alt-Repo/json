@@ -539,7 +539,7 @@
         },
         {
             "id": "magisk-tailscaled",
-            "last_update": 1716254208000,
+            "last_update": 1718241576000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/main/module.prop",
             "stars": 28,
