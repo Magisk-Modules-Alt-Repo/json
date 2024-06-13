@@ -59,7 +59,7 @@
         },
         {
             "id": "audio-misc-settings",
-            "last_update": 1717937044000,
+            "last_update": 1718274057000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
             "stars": 179,
@@ -747,7 +747,7 @@
         },
         {
             "id": "resampling-for-cheapies",
-            "last_update": 1717921344000,
+            "last_update": 1718274315000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/main/module.prop",
             "stars": 0,
