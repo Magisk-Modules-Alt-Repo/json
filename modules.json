@@ -915,7 +915,7 @@
         },
         {
             "id": "usb-samplerate-unlocker",
-            "last_update": 1719564596000,
+            "last_update": 1722147984000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/module.prop",
             "stars": 76,
@@ -934,7 +934,7 @@
             "last_update": 1698433306000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/module.prop",
-            "stars": 34,
+            "stars": 35,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/archive/master.zip"
         },
         {
