@@ -54,7 +54,7 @@
             "last_update": 1719564654000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/module.prop",
-            "stars": 94,
+            "stars": 95,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/archive/main.zip"
         },
         {
@@ -278,7 +278,7 @@
             "last_update": 1719401720000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/module.prop",
-            "stars": 78,
+            "stars": 79,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover/archive/master.zip"
         },
         {
@@ -302,7 +302,7 @@
             "last_update": 1663012287000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-nodebug/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ezme-nodebug/main/module.prop",
-            "stars": 36,
+            "stars": 37,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ezme-nodebug/archive/main.zip"
         },
         {
@@ -382,7 +382,7 @@
             "last_update": 1683468481000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice/main/module.prop",
-            "stars": 9,
+            "stars": 10,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GMS-Doze_Block_FindMyDevice/archive/main.zip"
         },
         {
@@ -390,7 +390,7 @@
             "last_update": 1683468397000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/GMSDoze/main/module.prop",
-            "stars": 61,
+            "stars": 62,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/GMSDoze/archive/main.zip"
         },
         {
@@ -536,6 +536,14 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font/master/module.prop",
             "stars": 5,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font/archive/master.zip"
+        },
+        {
+            "id": "magisk-swapspace",
+            "last_update": 1724720168000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-swapspace/master/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-swapspace/master/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk-swapspace/archive/master.zip"
         },
         {
             "id": "magisk-tailscaled",
@@ -750,7 +758,7 @@
             "last_update": 1724858594000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/main/module.prop",
-            "stars": 6,
+            "stars": 8,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/archive/main.zip"
         },
         {
@@ -782,7 +790,7 @@
             "last_update": 1707749983000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/module.prop",
-            "stars": 139,
+            "stars": 140,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/archive/master.zip"
         },
         {
@@ -902,7 +910,7 @@
             "last_update": 1713299452000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/unityfix/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/unityfix/main/module.prop",
-            "stars": 14,
+            "stars": 15,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/unityfix/archive/main.zip"
         },
         {
