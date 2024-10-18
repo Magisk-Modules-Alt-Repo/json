@@ -59,7 +59,7 @@
         },
         {
             "id": "audio-misc-settings",
-            "last_update": 1725864277000,
+            "last_update": 1729225085000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
             "stars": 229,
@@ -275,7 +275,7 @@
         },
         {
             "id": "drc-remover",
-            "last_update": 1719401720000,
+            "last_update": 1729225373000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/module.prop",
             "stars": 81,
@@ -702,7 +702,7 @@
             "last_update": 1709486250000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/module.prop",
-            "stars": 217,
+            "stars": 218,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip"
         },
         {
@@ -931,7 +931,7 @@
         },
         {
             "id": "usb-samplerate-unlocker",
-            "last_update": 1725864165000,
+            "last_update": 1729225131000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/module.prop",
             "stars": 91,
