@@ -142,7 +142,7 @@
             "last_update": 1729612861000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/main/module.prop",
-            "stars": 125,
+            "stars": 126,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro/archive/main.zip"
         },
         {
@@ -190,7 +190,7 @@
             "last_update": 1729240571000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/main/module.prop",
-            "stars": 56,
+            "stars": 57,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/archive/main.zip"
         },
         {
@@ -638,7 +638,7 @@
             "last_update": 1719753163000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/node/master/module.prop",
-            "stars": 53,
+            "stars": 54,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/node/archive/master.zip"
         },
         {
