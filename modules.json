@@ -11,7 +11,7 @@
         },
         {
             "id": "abootloop",
-            "last_update": 1729714199000,
+            "last_update": 1730117321000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/main/module.prop",
             "stars": 136,
@@ -766,7 +766,7 @@
             "last_update": 1724858594000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/main/module.prop",
-            "stars": 12,
+            "stars": 13,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/archive/main.zip"
         },
         {
