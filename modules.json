@@ -654,7 +654,7 @@
             "last_update": 1703269294000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/main/module.prop",
-            "stars": 215,
+            "stars": 216,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/NoStorageRestrict/archive/main.zip"
         },
         {
@@ -835,7 +835,7 @@
         },
         {
             "id": "StevenBlock",
-            "last_update": 1731161495000,
+            "last_update": 1731162141000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/StevenBlock/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/StevenBlock/main/module.prop",
             "stars": 23,
