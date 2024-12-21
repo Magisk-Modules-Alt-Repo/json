@@ -707,7 +707,7 @@
         },
         {
             "id": "open_webview",
-            "last_update": 1734388653000,
+            "last_update": 1734780867000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/module.prop",
             "stars": 233,
@@ -747,7 +747,7 @@
         },
         {
             "id": "pmmp",
-            "last_update": 1729310117000,
+            "last_update": 1734781408000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pmmp/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pmmp/main/module.prop",
             "stars": 8,
