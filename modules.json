@@ -906,6 +906,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/ToyBox-Ext/archive/main.zip"
         },
         {
+            "id": "tree",
+            "last_update": 1736514135000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/tree/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/tree/main/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/tree/archive/main.zip"
+        },
+        {
             "id": "trichromelibrary-squoosh",
             "last_update": 1655967933000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/master/README.md",
@@ -971,7 +979,7 @@
         },
         {
             "id": "wadbd",
-            "last_update": 1736593938000,
+            "last_update": 1736594565000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wadbd/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wadbd/main/module.prop",
             "stars": 12,
@@ -1016,6 +1024,14 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YAKT/main/module.prop",
             "stars": 46,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/YAKT/archive/main.zip"
+        },
+        {
+            "id": "YetAnotherBootloopProtector",
+            "last_update": 1736596648000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector/main/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/YetAnotherBootloopProtector/archive/main.zip"
         },
         {
             "id": "ytmusic_revancedinject",
