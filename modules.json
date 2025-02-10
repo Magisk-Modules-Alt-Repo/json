@@ -770,14 +770,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/QS_Rectangulares/archive/main.zip"
         },
         {
-            "id": "Re-Malwack",
-            "last_update": 1738959503000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Re-Malwack/main/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Re-Malwack/main/module.prop",
-            "stars": 14,
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack/archive/main.zip"
-        },
-        {
             "id": "resampling-for-cheapies",
             "last_update": 1724858594000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/main/README.md",
@@ -814,7 +806,7 @@
             "last_update": 1707749983000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/module.prop",
-            "stars": 160,
+            "stars": 161,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/archive/master.zip"
         },
         {
