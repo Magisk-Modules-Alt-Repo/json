@@ -462,7 +462,7 @@
             "last_update": 1741817008000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Hide-Navbar/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Hide-Navbar/master/module.prop",
-            "stars": 570,
+            "stars": 571,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Hide-Navbar/archive/master.zip"
         },
         {
@@ -616,14 +616,6 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/mkshrc/master/module.prop",
             "stars": 72,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/mkshrc/archive/master.zip"
-        },
-        {
-            "id": "MiXplorer",
-            "last_update": 1741816855000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MobaXterm-Pro-License-Key/main/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MobaXterm-Pro-License-Key/main/module.prop",
-            "stars": 315,
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/MobaXterm-Pro-License-Key/archive/main.zip"
         },
         {
             "id": "NavBar_Resize",
