@@ -147,7 +147,7 @@
         },
         {
             "id": "chroot-distro",
-            "last_update": 1745494973000,
+            "last_update": 1745508208000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/main/module.prop",
             "stars": 227,
