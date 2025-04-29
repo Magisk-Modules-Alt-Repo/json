@@ -147,7 +147,7 @@
         },
         {
             "id": "chroot-distro",
-            "last_update": 1745877574000,
+            "last_update": 1745908529000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/main/module.prop",
             "stars": 227,
@@ -694,7 +694,7 @@
             "last_update": 1734799155000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/module.prop",
-            "stars": 269,
+            "stars": 270,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip"
         },
         {
@@ -835,7 +835,7 @@
         },
         {
             "id": "StevenBlock",
-            "last_update": 1745419211000,
+            "last_update": 1745910494000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/StevenBlock/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/StevenBlock/main/module.prop",
             "stars": 45,
