@@ -14,7 +14,7 @@
             "last_update": 1741727081000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/main/module.prop",
-            "stars": 266,
+            "stars": 265,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/abootloop/archive/main.zip"
         },
         {
@@ -67,7 +67,7 @@
         },
         {
             "id": "audio-samplerate-changer",
-            "last_update": 1746096712000,
+            "last_update": 1746272289000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/main/module.prop",
             "stars": 35,
@@ -147,7 +147,7 @@
         },
         {
             "id": "chroot-distro",
-            "last_update": 1746270350000,
+            "last_update": 1746271963000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/main/module.prop",
             "stars": 229,
