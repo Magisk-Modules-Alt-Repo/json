@@ -51,7 +51,7 @@
         },
         {
             "id": "audio-jitter-silencer",
-            "last_update": 1746443066000,
+            "last_update": 1749307458000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/module.prop",
             "stars": 119,
@@ -59,7 +59,7 @@
         },
         {
             "id": "audio-misc-settings",
-            "last_update": 1746021728000,
+            "last_update": 1749307651000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
             "stars": 280,
@@ -67,7 +67,7 @@
         },
         {
             "id": "audio-samplerate-changer",
-            "last_update": 1746272289000,
+            "last_update": 1749307854000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/main/module.prop",
             "stars": 39,
@@ -195,7 +195,7 @@
         },
         {
             "id": "compatible-magisk-mirroring",
-            "last_update": 1733736388000,
+            "last_update": 1749308080000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/compatible-magisk-mirroring/main/module.prop",
             "stars": 80,
@@ -283,7 +283,7 @@
         },
         {
             "id": "drc-remover",
-            "last_update": 1729225373000,
+            "last_update": 1749308179000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/module.prop",
             "stars": 89,
@@ -755,7 +755,7 @@
         },
         {
             "id": "resampling-for-cheapies",
-            "last_update": 1724858594000,
+            "last_update": 1749308811000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/main/module.prop",
             "stars": 31,
@@ -931,7 +931,7 @@
         },
         {
             "id": "usb-samplerate-unlocker",
-            "last_update": 1746019808000,
+            "last_update": 1749308310000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/module.prop",
             "stars": 114,
@@ -942,7 +942,7 @@
             "last_update": 1739533223000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/vendor-prop/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/vendor-prop/main/module.prop",
-            "stars": 5,
+            "stars": 6,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/vendor-prop/archive/main.zip"
         },
         {
