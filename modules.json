@@ -150,7 +150,7 @@
             "last_update": 1755690562000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/main/module.prop",
-            "stars": 335,
+            "stars": 336,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro/archive/main.zip"
         },
         {
@@ -587,7 +587,7 @@
         },
         {
             "id": "material3-expressive",
-            "last_update": 1749588375000,
+            "last_update": 1756925075000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/material3-expressive/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/material3-expressive/main/module.prop",
             "stars": 2,
