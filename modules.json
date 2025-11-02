@@ -54,7 +54,7 @@
             "last_update": 1752752852000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/module.prop",
-            "stars": 134,
+            "stars": 135,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/archive/main.zip"
         },
         {
@@ -70,7 +70,7 @@
             "last_update": 1750677633000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/main/module.prop",
-            "stars": 55,
+            "stars": 56,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/archive/main.zip"
         },
         {
@@ -286,7 +286,7 @@
             "last_update": 1749308179000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/module.prop",
-            "stars": 101,
+            "stars": 102,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover/archive/master.zip"
         },
         {
@@ -710,7 +710,7 @@
             "last_update": 1734799155000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/open_webview/master/module.prop",
-            "stars": 293,
+            "stars": 294,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/open_webview/archive/master.zip"
         },
         {
@@ -774,7 +774,7 @@
             "last_update": 1749999535000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/main/module.prop",
-            "stars": 45,
+            "stars": 46,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/archive/main.zip"
         },
         {
