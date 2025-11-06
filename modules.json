@@ -558,7 +558,7 @@
             "last_update": 1761962287000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/main/module.prop",
-            "stars": 156,
+            "stars": 157,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Magisk-Tailscaled/archive/main.zip"
         },
         {
@@ -859,7 +859,7 @@
         },
         {
             "id": "supl-replacer",
-            "last_update": 1762417220000,
+            "last_update": 1762418520000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/supl-replacer/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/supl-replacer/master/module.prop",
             "stars": 52,
