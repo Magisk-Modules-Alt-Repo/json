@@ -59,7 +59,7 @@
         },
         {
             "id": "audio-misc-settings",
-            "last_update": 1749307651000,
+            "last_update": 1768741320000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
             "stars": 314,
@@ -67,7 +67,7 @@
         },
         {
             "id": "audio-samplerate-changer",
-            "last_update": 1767165370000,
+            "last_update": 1768741159000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/main/module.prop",
             "stars": 62,
