@@ -150,7 +150,7 @@
             "last_update": 1766095907000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/main/module.prop",
-            "stars": 474,
+            "stars": 475,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro/archive/main.zip"
         },
         {
@@ -728,14 +728,6 @@
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12/main/module.prop",
             "stars": 18,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/perf-limit-xiaomi-12/archive/main.zip"
-        },
-        {
-            "id": "pixel-tensor-audio-decompressor",
-            "last_update": 1691055436000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pixel-tensor-audio-decompressor/dev/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/pixel-tensor-audio-decompressor/dev/module.prop",
-            "stars": 7,
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/pixel-tensor-audio-decompressor/archive/dev.zip"
         },
         {
             "id": "PLEX_SKIP_INTRO_DPAD_CONTROLLER_FIX",
