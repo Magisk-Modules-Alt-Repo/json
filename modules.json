@@ -54,7 +54,7 @@
             "last_update": 1782026746000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/main/module.prop",
-            "stars": 137,
+            "stars": 138,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-jitter-silencer/archive/main.zip"
         },
         {
@@ -62,7 +62,7 @@
             "last_update": 1768741320000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
-            "stars": 335,
+            "stars": 336,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/archive/master.zip"
         },
         {
@@ -70,7 +70,7 @@
             "last_update": 1782026939000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/main/module.prop",
-            "stars": 76,
+            "stars": 77,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/archive/main.zip"
         },
         {
@@ -182,7 +182,7 @@
             "last_update": 1598574218000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/cmdpatch/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/cmdpatch/master/module.prop",
-            "stars": 25,
+            "stars": 26,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/cmdpatch/archive/master.zip"
         },
         {
@@ -222,7 +222,7 @@
             "last_update": 1673728563000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/main/module.prop",
-            "stars": 50,
+            "stars": 51,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/DalvikHyperthreading/archive/main.zip"
         },
         {
@@ -286,7 +286,7 @@
             "last_update": 1749308179000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/drc-remover/master/module.prop",
-            "stars": 108,
+            "stars": 109,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/drc-remover/archive/master.zip"
         },
         {
@@ -342,7 +342,7 @@
             "last_update": 1669116222000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Fdroid-Priv/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Fdroid-Priv/main/module.prop",
-            "stars": 22,
+            "stars": 23,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Fdroid-Priv/archive/main.zip"
         },
         {
@@ -774,7 +774,7 @@
             "last_update": 1767165182000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/main/module.prop",
-            "stars": 53,
+            "stars": 54,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/resampling-for-cheapies/archive/main.zip"
         },
         {
@@ -878,7 +878,7 @@
             "last_update": 1698181150000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/main/module.prop",
-            "stars": 70,
+            "stars": 71,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/archive/main.zip"
         },
         {
@@ -910,7 +910,7 @@
             "last_update": 1655967933000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/master/module.prop",
-            "stars": 21,
+            "stars": 22,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/trichromelibrary-squoosh/archive/master.zip"
         },
         {
@@ -950,7 +950,7 @@
             "last_update": 1775227045000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/module.prop",
-            "stars": 127,
+            "stars": 128,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/archive/master.zip"
         },
         {
@@ -974,7 +974,7 @@
             "last_update": 1598025275000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/vintf-bypass/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/vintf-bypass/master/module.prop",
-            "stars": 21,
+            "stars": 22,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/vintf-bypass/archive/master.zip"
         },
         {
@@ -990,7 +990,7 @@
             "last_update": 1698433306000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/master/module.prop",
-            "stars": 59,
+            "stars": 60,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/wifi-bonding-nolog/archive/master.zip"
         },
         {
@@ -1054,7 +1054,7 @@
             "last_update": 1641720621000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/zram-swap-manager/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/zram-swap-manager/master/module.prop",
-            "stars": 21,
+            "stars": 22,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/zram-swap-manager/archive/master.zip"
         }
     ],
