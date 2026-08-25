@@ -890,6 +890,14 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/archive/main.zip"
         },
         {
+            "id": "tb-j716f-rotation-fix",
+            "last_update": 1776714126000,
+            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/tb-j716f-rotation-fix/main/README.md",
+            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/tb-j716f-rotation-fix/main/module.prop",
+            "stars": 0,
+            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/tb-j716f-rotation-fix/archive/main.zip"
+        },
+        {
             "id": "ThemedProject",
             "last_update": 1760886337000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/ThemedProject/main/README.md",
