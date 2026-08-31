@@ -62,12 +62,12 @@
             "last_update": 1768741320000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
-            "stars": 342,
+            "stars": 341,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/archive/master.zip"
         },
         {
             "id": "audio-samplerate-changer",
-            "last_update": 1786014201000,
+            "last_update": 1788145993000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-samplerate-changer/main/module.prop",
             "stars": 90,
@@ -990,7 +990,7 @@
             "last_update": 1787828894000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/main/module.prop",
-            "stars": 125,
+            "stars": 126,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/archive/main.zip"
         },
         {
