@@ -90,14 +90,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Better-MIUI-Icons/archive/master.zip"
         },
         {
-            "id": "BraviaEngine",
-            "last_update": 1697807984000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BraviaEngine/4.0.6/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BraviaEngine/4.0.6/module.prop",
-            "stars": 15,
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/BraviaEngine/archive/4.0.6.zip"
-        },
-        {
             "id": "BuiltIn-BusyBox",
             "last_update": 1691528864000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/BuiltIn-BusyBox/main/README.md",
@@ -114,28 +106,12 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/Bye-Blur/archive/main.zip"
         },
         {
-            "id": "charch",
-            "last_update": 1638831717000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch/master/module.prop",
-            "stars": 14,
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/charch/archive/master.zip"
-        },
-        {
             "id": "charch_dinit",
             "last_update": 1648456059000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_dinit/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_dinit/master/module.prop",
             "stars": 6,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/charch_dinit/archive/master.zip"
-        },
-        {
-            "id": "charch_openrc",
-            "last_update": 1600642258000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_openrc/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/charch_openrc/master/module.prop",
-            "stars": 4,
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/charch_openrc/archive/master.zip"
         },
         {
             "id": "charch_sshd",
@@ -546,14 +522,6 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-koruri-font/archive/master.zip"
         },
         {
-            "id": "font-mejiro-oshi",
-            "last_update": 1677543206000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font/master/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font/master/module.prop",
-            "stars": 6,
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/magisk-module-mejiro-font/archive/master.zip"
-        },
-        {
             "id": "magisk-swapspace",
             "last_update": 1784062408000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk-swapspace/master/README.md",
@@ -850,28 +818,12 @@
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/smallbattery/archive/main.zip"
         },
         {
-            "id": "SomcGameEnhancer-Upgrade",
-            "last_update": 1663296850000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade/main/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade/main/module.prop",
-            "stars": 5,
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade/archive/main.zip"
-        },
-        {
             "id": "sqlite3",
             "last_update": 1784115397000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sqlite3/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sqlite3/master/module.prop",
             "stars": 32,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/sqlite3/archive/master.zip"
-        },
-        {
-            "id": "stevenblock",
-            "last_update": 1774085409000,
-            "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/StevenBlock/main/README.md",
-            "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/StevenBlock/main/module.prop",
-            "stars": 75,
-            "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock/archive/main.zip"
         },
         {
             "id": "supl-replacer",
