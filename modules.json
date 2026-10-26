@@ -59,10 +59,10 @@
         },
         {
             "id": "audio-misc-settings",
-            "last_update": 1788357810000,
+            "last_update": 1793025961000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
-            "stars": 345,
+            "stars": 346,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/archive/master.zip"
         },
         {
@@ -302,7 +302,7 @@
             "last_update": 1729109800000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/enable-blurs/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/enable-blurs/main/module.prop",
-            "stars": 31,
+            "stars": 32,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/enable-blurs/archive/main.zip"
         },
         {
@@ -867,7 +867,7 @@
         },
         {
             "id": "stevenblock",
-            "last_update": 1774085409000,
+            "last_update": 1793021805000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/StevenBlock/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/StevenBlock/main/module.prop",
             "stars": 79,
