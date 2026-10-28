@@ -14,7 +14,7 @@
             "last_update": 1741727081000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/main/module.prop",
-            "stars": 450,
+            "stars": 448,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/abootloop/archive/main.zip"
         },
         {
@@ -62,7 +62,7 @@
             "last_update": 1793025961000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/audio-misc-settings/master/module.prop",
-            "stars": 346,
+            "stars": 345,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/audio-misc-settings/archive/master.zip"
         },
         {
@@ -230,7 +230,7 @@
             "last_update": 1686425610000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/main/module.prop",
-            "stars": 74,
+            "stars": 73,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/data_backup/archive/main.zip"
         },
         {
@@ -854,7 +854,7 @@
             "last_update": 1663296850000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade/main/module.prop",
-            "stars": 5,
+            "stars": 4,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/SomcGameEnhancer-Upgrade/archive/main.zip"
         },
         {
@@ -867,10 +867,10 @@
         },
         {
             "id": "stevenblock",
-            "last_update": 1793021805000,
+            "last_update": 1793180314000,
             "notes_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/StevenBlock/main/README.md",
             "prop_url": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/StevenBlock/main/module.prop",
-            "stars": 80,
+            "stars": 81,
             "zip_url": "https://github.com/Magisk-Modules-Alt-Repo/StevenBlock/archive/main.zip"
         },
         {
